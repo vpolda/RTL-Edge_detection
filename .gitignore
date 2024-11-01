@@ -7,3 +7,17 @@ pyz2_videoDisplay/axis_vid_mod_tb_behav.wcfg
 /pyz2_videoDisplay/pyz2_videoDisplay.cache
 /pyz2_videoDisplay/pyz2_videoDisplay.gen
 /pyz2_videoDisplay/pyz2_videoDisplay.hw
+/pyz2_videoDisplay/pyz2_videoDisplay.srcs/utils_1/imports/synth_1
+*.ui
+*.bd
+*.bda
+*.xci
+pynq-z2_OS_HWbase_dump.txt
+pyz2_videoDisplay/vivado.log
+pyz2_videoDisplay/vivado.jou
+pyz2_videoDisplay/ip_upgrade.log
+pynq-z2_OS_HWbase_def_val.txt
+pynq-z2_base_PS.tcl
+NA/ps7_summary.html
+hs_err_pid14972.log
+hs_err_pid14972.dmp
