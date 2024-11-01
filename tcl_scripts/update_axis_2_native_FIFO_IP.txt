@@ -1,0 +1,19 @@
+current_project pyz2_videoDisplay
+update_ip_catalog -rebuild -repo_path c:/Projects/SoC_training/ip_repo
+report_ip_status -name ip_status 
+upgrade_ip -vlnv xilinx.com:user:axis_2_native_FIFO:1.0 [get_ips  axis_vid_mod_axis_2_native_FIFO_1_0] -log ip_upgrade.log
+export_ip_user_files -of_objects [get_ips axis_vid_mod_axis_2_native_FIFO_1_0] -no_script -sync -force -quiet
+
+
+catch { config_ip_cache -export [get_ips -all axis_vid_mod_axis_2_native_FIFO_1_0] }
+generate_target all [get_files  C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/pyz2_videoDisplay.srcs/sources_1/bd/axis_vid_mod/axis_vid_mod.bd]
+export_ip_user_files -of_objects [get_files C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/pyz2_videoDisplay.srcs/sources_1/bd/axis_vid_mod/axis_vid_mod.bd] -no_script -sync -force -quiet
+create_ip_run [get_files -of_objects [get_fileset sources_1] C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/pyz2_videoDisplay.srcs/sources_1/bd/axis_vid_mod/axis_vid_mod.bd]
+reset_run axis_vid_mod_axis_2_native_FIFO_1_0_synth_1
+launch_runs axis_vid_mod_axis_2_native_FIFO_1_0_synth_1 -jobs 8
+export_simulation -of_objects [get_files C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/pyz2_videoDisplay.srcs/sources_1/bd/axis_vid_mod/axis_vid_mod.bd] -directory C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/pyz2_videoDisplay.ip_user_files/sim_scripts -ip_user_files_dir C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/pyz2_videoDisplay.ip_user_files -ipstatic_source_dir C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/pyz2_videoDisplay.ip_user_files/ipstatic -lib_map_path [list {modelsim=C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/pyz2_videoDisplay.cache/compile_simlib/modelsim} {questa=C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/pyz2_videoDisplay.cache/compile_simlib/questa} {riviera=C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/pyz2_videoDisplay.cache/compile_simlib/riviera} {activehdl=C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/pyz2_videoDisplay.cache/compile_simlib/activehdl}] -use_ip_compiled_libs -force -quiet
+
+update_module_reference {top_FIFO_test_axis_vid_mod_wrapper_0_0 top_axis_vid_mod_wrapper_0_1}
+
+reset_simulation -simset sim_1 -mode behavioral
+launch_simulation
