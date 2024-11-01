@@ -1,0 +1,9 @@
+crawl
+-AXIS to fifo, and fifo to AXIS
+
+walk 
+-first in, array out add
+
+run
+-add entire pipeline
+-check timing
