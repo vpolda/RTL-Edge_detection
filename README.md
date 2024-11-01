@@ -9,7 +9,8 @@ The design takes HDMI input from a monitor or other device and passes it through
 
 ## Project Structure
 ### pyz2_videoDisplay
-
+This folder contains all source files and the project file.
+Including constraints, test benches, and imported designs.
 
 ### ip_repo
 Contains custom IP blocks used in the design.
