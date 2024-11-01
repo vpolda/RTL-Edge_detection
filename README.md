@@ -1,8 +1,21 @@
 # RTL Edge Detection
 
 ## Description
+An entirely RTL programmable logic based implementation of the Sobel Edge detection algorithm. 
+The goal was to avoid any PS interfacing purely for my own learning.
+
+This was done on the PYNQ-Z2 board which has two HDMI interfaces.
+The design takes HDMI input from a monitor or other device and passes it through the FPGA and out another HDMI port. Really it is running DVI, which is compatiable with HDMI ports.
 
 ## Project Structure
+### pyz2_videoDisplay
+
+
+### ip_repo
+Contains custom IP blocks used in the design.
+
+### tcl_scripts
+Contains scripts used to generate the project along with custom scripts developed for less GUI interfacing.
 
 ## Design
 
@@ -19,6 +32,13 @@
 ### Execution
 
 ## References
+Implementation of the algorithm:
+https://en.wikipedia.org/wiki/Sobel_operator
+https://homepages.inf.ed.ac.uk/rbf/HIPR2/sobel.htm
+
+The following are designs used in the development of my own. 
+https://github.com/JeffreySamuel/canny_edge_detection_in_FPGA/blob/main/README.md
+https://github.com/tharunchitipolu/sobel-edge-detector
 
 ## Authors
 
