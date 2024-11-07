@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 10/31/2024 06:40:05 AM
+// Create Date: 11/05/2024 03:27:40 PM
 // Design Name: 
-// Module Name: deserializer_tb
+// Module Name: AXIS_FIFO_tb
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,45 +20,69 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module kernal_shifter_wrapper_tb();
+module axis_deser_tb(
+    );
+    // Parameters
+    parameter integer S_AXIS_TDATA_WIDTH = 8;
+    parameter integer M_AXIS_TDATA_WIDTH = 24;
     
-    // Initialize inputs
     logic clk = 1;
-    logic rstn = 0;
-    logic [7:0 ]serial_in = 8'b00000000;
-      
-    //outputs
-    logic [71:0] pixels_out;
-    logic pixel_data_valid;
-    
-    logic FIFO_rd_en;
-    logic FIFO_empty = 0;
+    logic axis_rstn = 0;
 
-kernal_shifter_wrapper # (.IN_BITS(8), .OUT_SIZE(4)) uut (
-    .clk(clk),
-    .rstn(rstn), //hold in reset
-    .serial_in(serial_in),
-    .pixels_out(pixels_out),
-    .pixel_data_valid(pixel_data_valid),
-    .FIFO_empty(FIFO_empty),
-    .FIFO_rd_en(FIFO_rd_en)
-);
+   // Master
+    logic [M_AXIS_TDATA_WIDTH-1:0] m_axis_tdata; //o
+    logic m_axis_tready = 0; //input to DUT
+    logic s_axis_tvalid; //o
+
+   //Slave
+    logic [S_AXIS_TDATA_WIDTH-1:0] s_axis_tdata =  {S_AXIS_TDATA_WIDTH{1'b0}}; //i
+    logic s_axis_tready; //output from DUT
+    logic s_axis_tvalid = 0; //i
+
+    //DUT
+    // Instantiate the AXIS_S2M_deserializer module
+    AXIS_S2M_deserializer #(
+        .S_AXIS_TDATA_WIDTH(S_AXIS_TDATA_WIDTH),
+        .M_AXIS_TDATA_WIDTH(M_AXIS_TDATA_WIDTH)
+    ) deserializer_inst (
+        .s_axis_aclk(clk),
+        .s_axis_aresetn(axis_rstn),
+        .s_axis_tready(s_axis_tready),
+        .s_axis_tdata(s_axis_tdata),
+        .s_axis_tvalid(s_axis_tvalid),
+        .m_axis_tready(m_axis_tready),
+        .m_axis_tdata(m_axis_tdata),
+        .m_axis_tvalid(m_axis_tvalid)
+    );
+   
 
 initial begin
-        
-        //hold in reset then release
-        #20 rstn = 1;
 
-        // Apply stimulus
-        #10 for (integer i =0; i<14 ; i = i+1) begin
-            serial_in = serial_in + 1'h1;
-        end
+        // Release reset
+        axis_rstn = 0;
+        #20
+        axis_rstn = 1;
         
+        //start data input
+        s_axis_tdata = s_axis_tdata + 1'b1;
+        #10
+        s_axis_tdata = s_axis_tdata + 1'b1;
+        #10
+        s_axis_tvalid = 1;
+        s_axis_tdata = s_axis_tdata + 1'b1;
+        #10
+        s_axis_tdata = s_axis_tdata + 1'b1;
+        #10
+        s_axis_tdata = s_axis_tdata + 1'b1;
+        #10
+        s_axis_tdata = s_axis_tdata + 1'b1;
+        #20
+        m_axis_tready = 1;
+              
         // Clean up
         #10 $finish;
     end
 
     //clock gen
     always #5 clk = ~clk;
-
 endmodule

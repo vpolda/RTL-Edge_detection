@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 10/24/2024 11:43:34 AM
+// Create Date: 11/02/2024 09:49:58 PM
 // Design Name: 
-// Module Name: rgb_video_tb
+// Module Name: concat
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -20,14 +20,15 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module rgb_video_tb(
+module concat # (
+    parameter DATA_IN_WIDTH = 8,
+    parameter DATA_OUT_BYTES = 3 //a multiple of the input
+)(
+    input data_in,
+    output data_out
     );
-    wire [23:0] rgb_data_in;
-    wire [7:0] rgb_data_out;
-    
-    rgb2grey rgb2grey_inst
-       (.rgb_data_in(rgb_data_in),
-        .rgb_data_out(rgb_data_out));
-        
-    
+
+    assign data_out =  {DATA_IN{DATA_OUT_BYTES}};
+
+
 endmodule

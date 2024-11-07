@@ -3,9 +3,9 @@
 // Company: 
 // Engineer: 
 // 
-// Create Date: 10/30/2024 02:12:41 PM
+// Create Date: 11/01/2024 07:44:31 AM
 // Design Name: 
-// Module Name: kernal_shifter
+// Module Name: AXIS_S2M_kernelshifter
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
@@ -18,34 +18,64 @@
 // Additional Comments:
 // 
 //////////////////////////////////////////////////////////////////////////////////
-//NEED TO ADD PADDING!! Should add 2 pixels to each row
 
-module kernal_shifter(
-    input logic clk,
-    input logic rstn,
-    
-    output logic s_axis_tready, //axis interface, for when pixelshift is done
-    
-    input logic data_valid,
-    input logic [10239:0] row, //LSB is pixel 0 8 bits
-    
-    output logic [71:0] pixels_out,
-    output logic pixel_data_valid_out
-    );
-    
+//NEED TO ADD EDGE CASE
+module AXIS_S2M_kernelshifter #
+	(
+		parameter integer S_AXIS_TDATA_WIDTH	= 10242, //adding padding
+		parameter integer M_AXIS_TDATA_WIDTH	= 72
+	)
+	(
+		//Other ports here
+
+		//slave
+		input wire  s_axis_aclk,
+		input wire  s_axis_aresetn,
+		
+		output wire  s_axis_tready, //need to flag high when done with three rows
+		input wire [S_AXIS_TDATA_WIDTH-1 : 0] s_axis_tdata,
+		input wire  s_axis_tvalid,
+
+		input wire  s_axis_tlast, //indicates last packet
+		input wire s_axis_tuser,
+        input wire [2:0] s_axis_tid, //contains which stage
+
+
+        // master
+		input wire  m_axis_tready,
+		output wire [M_AXIS_TDATA_WIDTH-1 : 0] m_axis_tdata,
+		output wire  m_axis_tvalid,
+
+		output wire  m_axis_tlast, //indicates last packet
+		output wire m_axis_tuser
+	);
+
+    kernal_shifter # (.IN_BITS(9)) uut_inst (
+        .clk(s_axis_aclk),
+        .rstn(s_axis_aresetn),
+
+        .data_valid(s_axis_tvalid),
+        .row(s_axis_tdata),
+
+        .pixels_out(m_axis_tdata),
+        .pixel_data_valid_out(m_axis_tvalid)
+	*/
+	
     parameter HEIGHT = 720;
     parameter WIDTH = 1280;
     
-    logic [10239:0] row0;
-    logic [10239:0] row1;
-    logic [10239:0] row2;
+    logic [WIDTH*8-1:0] row0;
+    logic [WIDTH*8-1:0] row1;
+    logic [WIDTH*8-1:0] row2;
     
     logic shifting_pixels;
     logic pixel_data_valid;
+	logic [71:0] pixels_out;
 
     integer height_cnt;
     
-    assign pixel_data_valid_out = pixel_data_valid;
+    assign m_axis_tvalid = pixel_data_valid;
+	assign m_axis_tdata = pixels_out;
     
     //ADD tready, tlast here
     //tready is when
@@ -68,7 +98,12 @@ module kernal_shifter(
         //if causes multiple driving, merge to above with
         shifting_pixels <= 0;
         
-    
+    //padding
+    //also needs to do padding
+    //if first row, duplicate it
+    //if last row, duplicate it.
+    // first pixel and last duplicate
+    //can all be done on outputs
     
     //Row handling
     //If data from serializer is ready and its not currently shifting pixels, shift rows
@@ -80,9 +115,9 @@ module kernal_shifter(
             height_cnt <= 0;
         //let first two rows load, then start shifting
         //Stop at row 719
-        end else if (data_valid & !shifting_pixels) begin //might not want to rely on shifting pixels state
+        end else if (s_axis_tvalid & !shifting_pixels) begin //might not want to rely on shifting pixels state
             //Think it just needs to be one cycle, could be more, LOOK AT SCHEMATIC
-            row0 <= row;
+            row0 <= s_axis_tdata;
             row1 <= row0;
             row2 <= row1;
 
@@ -99,20 +134,18 @@ module kernal_shifter(
     //pixel shift module inst
     logic [71:0] PS_pixels_out;
     
-    
     pixel_shift # (.WIDTH(WIDTH)) pixel_shift_inst(
-        .clk(clk),
-        .rstn_in(rstn),
-    
-        .shifting_pixels(shifting_pixels), //state
-        .row0(row0), //rows
-        .row1(row1),
-        .row2(row2),
-    
-     .pixel_data_valid(pixel_data_valid),
-     .pixels_out(PS_pixels_out)
+		.clk(clk),
+		.rstn_in(rstn),
+
+		.shifting_pixels(shifting_pixels), //state
+		.row0(row0), //rows
+		.row1(row1),
+		.row2(row2),
+		
+		.pixel_data_valid(pixel_data_valid),
+		.pixels_out(PS_pixels_out)
     );
-    
 endmodule
 
 
@@ -204,3 +237,4 @@ end
     end
 
 endmodule
+

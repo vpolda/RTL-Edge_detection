@@ -1,11 +1,4 @@
 ## HDMI signals
-#test hdmi
-set_property -dict {PACKAGE_PIN T12 IOSTANDARD LVCMOS33} [get_ports arduino_gpio_tri_io0]
-set_property -dict {PACKAGE_PIN U12 IOSTANDARD LVCMOS33} [get_ports arduino_gpio_tri_io1]
-set_property -dict {PACKAGE_PIN U13 IOSTANDARD LVCMOS33} [get_ports {arduino_gpio_tri_io[0]}]
-set_property -dict {PACKAGE_PIN V13 IOSTANDARD LVCMOS33} [get_ports {arduino_gpio_tri_io[1]}]
-set_property -dict {PACKAGE_PIN V15 IOSTANDARD LVCMOS33} [get_ports {arduino_gpio_tri_io[2]}]
-
 ## HDMI RX
 set_property -dict {PACKAGE_PIN P19 IOSTANDARD TMDS_33} [get_ports hdmi_in_clk_n]
 set_property -dict {PACKAGE_PIN N18 IOSTANDARD TMDS_33} [get_ports hdmi_in_clk_p]
@@ -74,9 +67,3 @@ set_property -dict { PACKAGE_PIN Y7    IOSTANDARD LVCMOS33 } [get_ports { rpi_gp
 set_property -dict { PACKAGE_PIN F20   IOSTANDARD LVCMOS33 } [get_ports { rpi_gpio_tri_io[17] }]; 
 set_property -dict { PACKAGE_PIN W9    IOSTANDARD LVCMOS33 } [get_ports { rpi_gpio_tri_io[18] }]; 
 set_property -dict { PACKAGE_PIN V7    IOSTANDARD LVCMOS33 } [get_ports { rpi_gpio_tri_io[19] }];
-
-
-set_property C_CLK_INPUT_FREQ_HZ 300000000 [get_debug_cores dbg_hub]
-set_property C_ENABLE_CLK_DIVIDER false [get_debug_cores dbg_hub]
-set_property C_USER_SCAN_CHAIN 1 [get_debug_cores dbg_hub]
-connect_debug_port dbg_hub/clk [get_nets clk]

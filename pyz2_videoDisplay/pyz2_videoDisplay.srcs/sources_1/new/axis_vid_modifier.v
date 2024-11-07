@@ -24,16 +24,16 @@
 //////////////////////////////////////////////////////////////////////////////////
 
 
-module axis_vid_rgb2grey(
-    input [31:0] data_in, //ignore first byte as it is padding of 0s
-    output [7:0] data_out
+module rgb2grey(
+    input [23:0] data_in,
+    output [7:0] data_out 
     );
     
     //greyscale conversion
     wire [23:0] color_avg;
     //>>2 divides by 2^2
     // Green is shifted left to brighten
-    assign data_out = (data_in[23:16] + (data_in[15:8]<<1) + data_in[7:0]) >> 2;
-    //assign data_out = {color_avg[7:0], color_avg[7:0], color_avg[7:0]};
+    assign color_avg = (data_in[23:16] + (data_in[15:8]<<1) + data_in[7:0]) >> 2;
+    assign data_out = color_avg[7:0];
     
 endmodule
