@@ -7,6 +7,8 @@ The goal was to avoid any PS interfacing purely for my own learning.
 This was done on the PYNQ-Z2 board which has two HDMI interfaces.
 The design takes HDMI input from a monitor or other device and passes it through the FPGA and out another HDMI port. Really it is running DVI, which is compatiable with HDMI ports.
 
+Please refer to /doc/hid for more details on the design.
+
 ## Project Structure
 ### pyz2_videoDisplay
 This folder contains all source files and the project file.
