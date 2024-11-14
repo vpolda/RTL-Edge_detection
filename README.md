@@ -14,8 +14,8 @@ Please refer to /docs/HID.odt for more details on the design.
 This folder contains all source files and the project file.
 Including constraints, test benches, and imported designs.
 
-### ip_repo
-Contains custom IP blocks used in the design.
+### Docs
+Contains LibreOffice documents pertaining to the design. Includes a Hardware Description Document detailing the design. And  block diagram presentation file for block diagram generation. 
 
 ### tcl_scripts
 Contains scripts used to generate the project along with custom scripts developed for less GUI interfacing.
