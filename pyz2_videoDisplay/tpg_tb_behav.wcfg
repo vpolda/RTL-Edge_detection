@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="tpg_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="axi_vip_pkg" />
+            <top_module name="glbl" />
+            <top_module name="ipif_pkg" />
+            <top_module name="std" />
+            <top_module name="tpg_tb" />
+            <top_module name="vcomponents" />
+            <top_module name="xil_common_vip_pkg" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.040000 us"></ZoomStartTime>
+      <ZoomEndTime time="64.240001 us"></ZoomEndTime>
+      <Cursor1Time time="26.570000 us"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="286"></NameColumnWidth>
+      <ValueColumnWidth column_width="104"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="8" />
+   <wvobject fp_name="/tpg_tb/UUT/rstn" type="logic">
+      <obj_property name="ElementShortName">rstn</obj_property>
+      <obj_property name="ObjectShortName">rstn</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/pix_clk" type="logic">
+      <obj_property name="ElementShortName">pix_clk</obj_property>
+      <obj_property name="ObjectShortName">pix_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="group681" type="group">
+      <obj_property name="label">input</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="group773" type="group">
+         <obj_property name="label">video data</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="isExpanded"></obj_property>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_tpg_2/m_axis_video_TDATA" type="array">
+            <obj_property name="ElementShortName">m_axis_video_TDATA[23:0]</obj_property>
+            <obj_property name="ObjectShortName">m_axis_video_TDATA[23:0]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_tpg_2/m_axis_video_TLAST" type="array">
+            <obj_property name="ElementShortName">m_axis_video_TLAST[0:0]</obj_property>
+            <obj_property name="ObjectShortName">m_axis_video_TLAST[0:0]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_tpg_2/m_axis_video_TREADY" type="logic">
+            <obj_property name="ElementShortName">m_axis_video_TREADY</obj_property>
+            <obj_property name="ObjectShortName">m_axis_video_TREADY</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_tpg_2/m_axis_video_TUSER" type="array">
+            <obj_property name="ElementShortName">m_axis_video_TUSER[0:0]</obj_property>
+            <obj_property name="ObjectShortName">m_axis_video_TUSER[0:0]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_tpg_2/m_axis_video_TVALID" type="logic">
+            <obj_property name="ElementShortName">m_axis_video_TVALID</obj_property>
+            <obj_property name="ObjectShortName">m_axis_video_TVALID</obj_property>
+         </wvobject>
+      </wvobject>
+      <wvobject fp_name="group774" type="group">
+         <obj_property name="label">video timing</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="isExpanded"></obj_property>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_tc_0/active_video_out" type="logic">
+            <obj_property name="ElementShortName">active_video_out</obj_property>
+            <obj_property name="ObjectShortName">active_video_out</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_tc_0/hblank_out" type="logic">
+            <obj_property name="ElementShortName">hblank_out</obj_property>
+            <obj_property name="ObjectShortName">hblank_out</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_tc_0/hsync_out" type="logic">
+            <obj_property name="ElementShortName">hsync_out</obj_property>
+            <obj_property name="ObjectShortName">hsync_out</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_tc_0/vblank_out" type="logic">
+            <obj_property name="ElementShortName">vblank_out</obj_property>
+            <obj_property name="ObjectShortName">vblank_out</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_tc_0/vsync_out" type="logic">
+            <obj_property name="ElementShortName">vsync_out</obj_property>
+            <obj_property name="ObjectShortName">vsync_out</obj_property>
+         </wvobject>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="group706" type="group">
+      <obj_property name="label">into AXIS Vid</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="isExpanded"></obj_property>
+      <wvobject fp_name="group775" type="group">
+         <obj_property name="label">video data</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="isExpanded"></obj_property>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/s_axis_video_tdata" type="array">
+            <obj_property name="ElementShortName">s_axis_video_tdata[23:0]</obj_property>
+            <obj_property name="ObjectShortName">s_axis_video_tdata[23:0]</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/s_axis_video_tlast" type="logic">
+            <obj_property name="ElementShortName">s_axis_video_tlast</obj_property>
+            <obj_property name="ObjectShortName">s_axis_video_tlast</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/s_axis_video_tready" type="logic">
+            <obj_property name="ElementShortName">s_axis_video_tready</obj_property>
+            <obj_property name="ObjectShortName">s_axis_video_tready</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/s_axis_video_tuser" type="logic">
+            <obj_property name="ElementShortName">s_axis_video_tuser</obj_property>
+            <obj_property name="ObjectShortName">s_axis_video_tuser</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/s_axis_video_tvalid" type="logic">
+            <obj_property name="ElementShortName">s_axis_video_tvalid</obj_property>
+            <obj_property name="ObjectShortName">s_axis_video_tvalid</obj_property>
+         </wvobject>
+      </wvobject>
+      <wvobject fp_name="group776" type="group">
+         <obj_property name="label">video timing</obj_property>
+         <obj_property name="DisplayName">label</obj_property>
+         <obj_property name="isExpanded"></obj_property>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/vtg_active_video" type="logic">
+            <obj_property name="ElementShortName">vtg_active_video</obj_property>
+            <obj_property name="ObjectShortName">vtg_active_video</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/vtg_hblank" type="logic">
+            <obj_property name="ElementShortName">vtg_hblank</obj_property>
+            <obj_property name="ObjectShortName">vtg_hblank</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/vtg_hsync" type="logic">
+            <obj_property name="ElementShortName">vtg_hsync</obj_property>
+            <obj_property name="ObjectShortName">vtg_hsync</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/vtg_vblank" type="logic">
+            <obj_property name="ElementShortName">vtg_vblank</obj_property>
+            <obj_property name="ObjectShortName">vtg_vblank</obj_property>
+         </wvobject>
+         <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/vtg_vsync" type="logic">
+            <obj_property name="ElementShortName">vtg_vsync</obj_property>
+            <obj_property name="ObjectShortName">vtg_vsync</obj_property>
+         </wvobject>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/status" type="array">
+      <obj_property name="ElementShortName">status[31:0]</obj_property>
+      <obj_property name="ObjectShortName">status[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/underflow" type="logic">
+      <obj_property name="ElementShortName">underflow</obj_property>
+      <obj_property name="ObjectShortName">underflow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/overflow" type="logic">
+      <obj_property name="ElementShortName">overflow</obj_property>
+      <obj_property name="ObjectShortName">overflow</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/locked" type="logic">
+      <obj_property name="ElementShortName">locked</obj_property>
+      <obj_property name="ObjectShortName">locked</obj_property>
+   </wvobject>
+</wave_config>

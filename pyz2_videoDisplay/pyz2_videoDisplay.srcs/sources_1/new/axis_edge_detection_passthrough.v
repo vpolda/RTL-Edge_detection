@@ -10,6 +10,9 @@
 // Target Devices: 
 // Tool Versions: 
 // Description: 
+
+// THIS Is the initial test of axis edge detection module
+//It simply passes incoming data into two fifo buffers and cr
 // 
 // Dependencies: 
 // 
