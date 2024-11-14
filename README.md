@@ -1,13 +1,13 @@
 # RTL Edge Detection
 
 ## Description
-An entirely RTL programmable logic based implementation of the Sobel Edge detection algorithm. 
-The goal was to avoid any PS interfacing purely for my own learning.
+An entirely RTL programmable logic based design with the implementation of the Sobel Edge detection algorithm. 
+The goal was to avoid any PS interfacing purely for my own learning, while working with computer vision topics that interest me.
 
-This was done on the PYNQ-Z2 board which has two HDMI interfaces.
-The design takes HDMI input from a monitor or other device and passes it through the FPGA and out another HDMI port. Really it is running DVI, which is compatiable with HDMI ports.
+The RTL Edge Detection design takes in live video streaming data, and transforms it via kernel operations. This is achieved through multiple FIFOs, BRAM, and intermediate processes. 
+The challenge of this design is that the sobel kernel requires pixels from other lines, so the video data must be buffered before it is modified. I wanted to make the design capable of having multiple process like blurring on top of the sobel. This increased the complexity significantly.
 
-Please refer to /docs/HID.odt for more details on the design.
+This was done on the PYNQ-Z2 board without the PS instantiated.
 
 ## Project Structure
 ### pyz2_videoDisplay
@@ -21,13 +21,18 @@ Contains LibreOffice documents pertaining to the design. Includes a Hardware Des
 Contains scripts used to generate the project along with custom scripts developed for less GUI interfacing.
 
 ## Design
+Please refer to /docs/Hardware_Description_Doc.pdf for more details on the design.
 
-### Custom IP
+The RTL Edge Detection features custom IP. Each one has its design and use documented in the referrenced above doc.
 
 ### Timing and latency
 
 ## Getting Started
-
+Needed: 
+   A ZYNQ-7000 board with at least two interfaces for video input and output. 
+   Two cables for video data. 
+   A power cable for the board. 
+   And finally, an ethernet cable (note: this is used to generate the system clock on the Programmable Logic).
 
 ### Setup
 
