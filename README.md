@@ -34,10 +34,17 @@ Including constraints, test benches, and imported designs.
 Contains scripts used to generate the project along with custom scripts developed for less GUI interfacing.
 
 ## Design
-### Top Wrapper
-The top level design features wiring for the HDMI in and output port. Both of these are actually running DVI protocol and not HDMI. This is due to limitations of available IP for the PYNQ board and my time and development limitations. 
+### Top Level
+![Top wrapper](images/top_BD.PNG)
 
+The top level design features wiring for the HDMI input and output port. Both of these are actually running DVI protocol and not HDMI. This is due to limitations of available IP for the PYNQ board and my time and development limitations. 
 
+The DVI2RGB module handles the DDC output to the HDMI input data. This tells the source device what the setup is capable/configured to run.
+The HPD (hot plug density) is also handled here. It is an on or off voltage to signal to the source device that a sink is present and allows the source to look DDC data to configure it's output.
+
+A clock wizard provides the necassry clocking.
+
+All blocks shown beside the AXIS Edge Detection are IP of Digilent and Xilinx!
 
 ### DMA - Direct Memory Access
 Initially, as stated above, the plan was to use only store a few rows of pixels instead of an entire frame. That was changed mainly for scalability and future growth. Instead of redoing multiple tracks of FIFO's, line buffers and kernelizers, the design would have a whole image to work on. 
