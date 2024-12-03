@@ -41,7 +41,7 @@
 
 import axi_vip_pkg::*;
 import testing_axi_vip_0_0_pkg::*;
-import testing_axi_vip_0_1_pkg::*;
+//import testing_axi_vip_0_1_pkg::*;
 
 module tpg_tb(
 
@@ -99,6 +99,8 @@ always #10ns fast_clk = ~fast_clk;
 logic vid_io_out_0_active_video, vid_io_out_0_field, vid_io_out_0_hblank, vid_io_out_0_hsync, vid_io_out_0_vblank, vid_io_out_0_vsync;
 logic [23:0] vid_io_out_0_data;
 
+logic gen_en;
+
 // Instanciation of the Unit Under Test (UUT)
 testing_wrapper UUT
     (
@@ -111,7 +113,8 @@ testing_wrapper UUT
     .vid_io_out_0_hblank(vid_io_out_0_hblank),            // Connect to horizontal blanking signal
     .vid_io_out_0_hsync(vid_io_out_0_hsync),              // Connect to horizontal sync signal
     .vid_io_out_0_vblank(vid_io_out_0_vblank),            // Connect to vertical blanking signal
-    .vid_io_out_0_vsync(vid_io_out_0_vsync)               // Connect to vertical sync signal 
+    .vid_io_out_0_vsync(vid_io_out_0_vsync),               // Connect to vertical sync signal 
+    .gen_clken_0(gen_en)
 );
 
 //////////////////////////////////////////////////////////////////////////////////
@@ -123,6 +126,7 @@ testing_wrapper UUT
 initial begin
     //Assert the reset
     aresetn = 0;
+    gen_en = 0;
     #340ns
     // Release the reset
     aresetn = 1;
@@ -162,10 +166,13 @@ end
         // Start the TPG in free-running mode    
         master_agent_0.AXI4LITE_WRITE_BURST(TPG_CONTROL_REG,0,8'h81,resp); 
         
+        #519ns
+        gen_en = 1;
+        
     end
     
 
-
+/*
 // VTC user added
 
 //declare agent
@@ -187,63 +194,5 @@ initial begin
     master_agent_1.AXI4LITE_WRITE_BURST(VTC_GEN_ENABLE_REG,0,1'b1,resp); 
       
 end
-endmodule
-
-
-/*
-//
-initial begin
-    //Assert the reset
-    aresetn = 0;
-    #340ns
-    // Release the reset
-    aresetn = 1;
-    
-    // Start of the first frame
-    @(posedge tpg_tuser)
-    
-    // Start of the second frame, stop the simulation
-    @(posedge tpg_tuser)
-    wait (tpg_tuser == 1'b0);
-    #20ns;
-    if((final_height == height)&&(final_width == width))
-        $display("Configured and output resolution match, test succeeded");
-    else
-        $display("Configured and output resolution do not match, test failed");
-    
-    $finish;
-    
-end
-    //////////////////////////////////////////////////////////////////////////////////
-    //This process count the number of pixel per line (width of the image)
-    //////////////////////////////////////////////////////////////////////////////////
-    //
-    always @(posedge aclk)
-    begin
-        if((tpg_tvalid==1)&&(tpg_tready==1)) begin
-            if(tpg_tlast==1) begin
-                final_width = counter_width + 1;
-                counter_width = 0;         
-            end
-            else
-                counter_width = counter_width + 1;           
-        end
-    end
-    //
-    //////////////////////////////////////////////////////////////////////////////////
-    //This process count the number of line per frame (height of the image)
-    //////////////////////////////////////////////////////////////////////////////////
-    //
-    always @(posedge aclk)
-    begin
-        if((tpg_tvalid==1)&&(tpg_tready==1)) begin
-            if(tpg_tuser==1) begin
-                final_height =  counter_height;
-                counter_height = 0;       
-            end
-            else if(tpg_tlast==1)
-                counter_height = counter_height + 1;         
-        end
-    end
-//////////////////////////////////////////////////////////////////////////////////
 */
+endmodule

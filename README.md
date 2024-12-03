@@ -1,13 +1,26 @@
 # RTL Edge Detection
 
 ## Description
-An entirely RTL programmable logic based design with the implementation of the Sobel Edge detection algorithm. 
-The goal was to avoid any PS interfacing purely for my own learning, while working with computer vision topics that interest me.
+A design focused on live video editing with the implementation of the Sobel Edge detection algorithm. 
 
-The RTL Edge Detection design takes in live video streaming data, and transforms it via kernel operations. This is achieved through multiple FIFOs, BRAM, and intermediate processes. 
-The challenge of this design is that the sobel kernel requires pixels from other lines, so the video data must be buffered before it is modified. I wanted to make the design capable of having multiple process like blurring on top of the sobel. This increased the complexity significantly.
+The focus is own scalability and reusability in the modules I create and test. I wanted to focus on a system that can swap in different kernels or video effects, and even adding multiple to one input stream.
 
-This was done on the PYNQ-Z2 board without the PS instantiated.
+The RTL Edge Detection design takes in live video streaming data, and transforms it via kernel operations. 
+The challenge of this design is that the sobel kernel requires pixels from other lines, so the video data must be buffered before it is modified. I wanted to make the design capable of having multiple process like blurring on top of the sobel. This increased the complexity significantly. 
+But using hardware to perform operations on live data is incredibly powerful when done with FPGA's.
+
+This was done on the PYNQ-Z2 board.
+
+## Requirements
+### Overall design
+Less than 16.67 ms for total delay (from the time needed per frame @ 720p 60Hz)
+
+### Internal Requirements
+(Mainly for my own sanity and memory)
+Syncs with output Video Timing Controller
+
+### Cool addons
+Chain multiple effects together (Think this can be done with an AXI FIFO to avoid overwhelming the DMA controller)
 
 ## Project Structure
 ### pyz2_videoDisplay
@@ -15,17 +28,40 @@ This folder contains all source files and the project file.
 Including constraints, test benches, and imported designs.
 
 ### Docs
-Contains LibreOffice documents pertaining to the design. Includes a Hardware Description Document detailing the design. And  block diagram presentation file for block diagram generation. 
+[DECAPED] Contains LibreOffice documents pertaining to the design. Includes a Hardware Description Document detailing the design. And  block diagram presentation file for block diagram generation. 
 
 ### tcl_scripts
 Contains scripts used to generate the project along with custom scripts developed for less GUI interfacing.
 
 ## Design
-Please refer to /docs/Hardware_Description_Doc.pdf for more details on the design.
+### Top Wrapper
+The top level design features wiring for the HDMI in and output port. Both of these are actually running DVI protocol and not HDMI. This is due to limitations of available IP for the PYNQ board and my time and development limitations. 
 
-The RTL Edge Detection features custom IP. Each one has its design and use documented in the referrenced above doc.
+
+
+### DMA - Direct Memory Access
+Initially, as stated above, the plan was to use only store a few rows of pixels instead of an entire frame. That was changed mainly for scalability and future growth. Instead of redoing multiple tracks of FIFO's, line buffers and kernelizers, the design would have a whole image to work on. 
+
+This opened me to the world of DMA. Sadly the PYNQ-Z2 board has no PL to DDR controller wiring, so I had to instantiate the PS for passing along memory mapped data into the external 512 MB DDR.
+
+The design features VDMA (video DMA) IP block for writing in the DDR.
+However, a standard DMA block reads from the DDR. This is due to the need for certain pixels in the frame to be read out, instead of the entire frame. 
 
 ### Timing and latency
+
+### Resets
+
+### Memory
+
+## Development Plan
+(reference Sim files and AXI VIP here too)
+
+### Crawl
+Implement a simple design that buffers video data into a higher clock domain and then back out
+
+### Walk
+
+### Run
 
 ## Getting Started
 Needed: 

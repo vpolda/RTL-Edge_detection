@@ -17,20 +17,48 @@
    </db_ref_list>
    <zoom_setting>
       <ZoomStartTime time="0.000000 us"></ZoomStartTime>
-      <ZoomEndTime time="13.310001 us"></ZoomEndTime>
-      <Cursor1Time time="51.340000 us"></Cursor1Time>
+      <ZoomEndTime time="458.400009 us"></ZoomEndTime>
+      <Cursor1Time time="110.340000 us"></Cursor1Time>
    </zoom_setting>
    <column_width_setting>
-      <NameColumnWidth column_width="253"></NameColumnWidth>
+      <NameColumnWidth column_width="223"></NameColumnWidth>
       <ValueColumnWidth column_width="90"></ValueColumnWidth>
    </column_width_setting>
-   <WVObjectSize size="2" />
-   <wvobject fp_name="/tpg_tb/UUT/testing_i/VTC_timing_controlle_0/aresetn" type="logic">
-      <obj_property name="ElementShortName">aresetn</obj_property>
-      <obj_property name="ObjectShortName">aresetn</obj_property>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="/tpg_tb/UUT/testing_i/v_axi4s_vid_out_0/inst/vtg_ce" type="logic">
+      <obj_property name="ElementShortName">vtg_ce</obj_property>
+      <obj_property name="ObjectShortName">vtg_ce</obj_property>
    </wvobject>
-   <wvobject fp_name="/tpg_tb/UUT/testing_i/VTC_timing_controlle_0/clk" type="logic">
-      <obj_property name="ElementShortName">clk</obj_property>
-      <obj_property name="ObjectShortName">clk</obj_property>
+   <wvobject fp_name="/tpg_tb/UUT/testing_i/v_tc_0/gen_clken" type="logic">
+      <obj_property name="ElementShortName">gen_clken</obj_property>
+      <obj_property name="ObjectShortName">gen_clken</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/UUT/vid_io_out_0_active_video" type="logic">
+      <obj_property name="ElementShortName">vid_io_out_0_active_video</obj_property>
+      <obj_property name="ObjectShortName">vid_io_out_0_active_video</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/UUT/vid_io_out_0_data" type="array">
+      <obj_property name="ElementShortName">vid_io_out_0_data[23:0]</obj_property>
+      <obj_property name="ObjectShortName">vid_io_out_0_data[23:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/UUT/vid_io_out_0_field" type="logic">
+      <obj_property name="ElementShortName">vid_io_out_0_field</obj_property>
+      <obj_property name="ObjectShortName">vid_io_out_0_field</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/UUT/vid_io_out_0_hblank" type="logic">
+      <obj_property name="ElementShortName">vid_io_out_0_hblank</obj_property>
+      <obj_property name="ObjectShortName">vid_io_out_0_hblank</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/UUT/vid_io_out_0_hsync" type="logic">
+      <obj_property name="ElementShortName">vid_io_out_0_hsync</obj_property>
+      <obj_property name="ObjectShortName">vid_io_out_0_hsync</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/UUT/vid_io_out_0_vblank" type="logic">
+      <obj_property name="ElementShortName">vid_io_out_0_vblank</obj_property>
+      <obj_property name="ObjectShortName">vid_io_out_0_vblank</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tpg_tb/UUT/vid_io_out_0_vsync" type="logic">
+      <obj_property name="ElementShortName">vid_io_out_0_vsync</obj_property>
+      <obj_property name="ObjectShortName">vid_io_out_0_vsync</obj_property>
    </wvobject>
 </wave_config>

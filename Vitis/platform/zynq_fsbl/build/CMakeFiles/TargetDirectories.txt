@@ -1,0 +1,3 @@
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/zynq_fsbl/build/CMakeFiles/fsbl.elf.dir
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/zynq_fsbl/build/CMakeFiles/edit_cache.dir
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/zynq_fsbl/build/CMakeFiles/rebuild_cache.dir

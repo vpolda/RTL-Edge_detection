@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Thu Oct 10 10:49:45 2024
+# Process ID: 13228
+# Current directory: C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent21212 C:\Projects\SoC_training\pz2_videoDisplay\pyz2_videoDisplay\pyz2_videoDisplay.xpr
+# Log file: C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay/vivado.log
+# Journal file: C:/Projects/SoC_training/pz2_videoDisplay/pyz2_videoDisplay\vivado.jou
+#-----------------------------------------------------------
+start_gui
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Oct 10 10:50:19 2024...

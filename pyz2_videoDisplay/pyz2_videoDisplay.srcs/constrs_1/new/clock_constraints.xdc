@@ -14,3 +14,4 @@ create_clock -period 8.000 -waveform {0.000 5.000} [get_ports sys_clock]
 # Add output delay constraints (for the output DVI signal) 16.67 ms
 #set_output_delay -max 16670000 [get_ports hdmi_out] -clock [get_clocks hdmi_in_clk_p]
 
+
