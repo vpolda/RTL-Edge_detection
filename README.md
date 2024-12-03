@@ -35,7 +35,7 @@ Contains scripts used to generate the project along with custom scripts develope
 
 ## Design
 ### Top Level
-![Top wrapper](images/top_BD.png)
+![Top wrapper](images/top_BD.PNG)
 The top level design features wiring for the HDMI in and output port. Both of these are actually running DVI protocol and not HDMI. This is due to limitations of available IP for the PYNQ board and my time and development limitations. 
 
 
