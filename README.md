@@ -88,6 +88,8 @@ https://github.com/JeffreySamuel/canny_edge_detection_in_FPGA/blob/main/README.m
 
 https://github.com/tharunchitipolu/sobel-edge-detector
 
+DMA: https://logictronix.com/wp-content/uploads/2022/03/ZedBoard-Video-Frame-Buffer-Read_Write-Reference-Design-LRFD030.pdf
+
 ## Authors
 
 Victoria Polda
