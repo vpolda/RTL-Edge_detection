@@ -14,6 +14,7 @@ This was done on the PYNQ-Z2 board.
 ## Requirements
 ### Overall design
 Less than 16.67 ms for total delay (from the time needed per frame @ 720p 60Hz)
+Button to toggle effect?
 
 ### Internal Requirements
 (Mainly for my own sanity and memory)
@@ -21,6 +22,7 @@ Syncs with output Video Timing Controller
 
 ### Cool addons
 Chain multiple effects together (Think this can be done with an AXI FIFO to avoid overwhelming the DMA controller)
+HPD tied to something instead of constant
 
 ## Project Structure
 ### pyz2_videoDisplay
@@ -35,16 +37,19 @@ Contains scripts used to generate the project along with custom scripts develope
 
 ## Design
 ### Top Level
-![Top wrapper](images/top_BD.PNG)
-
+![Top wrapper_currentVIP](images/top_BD.PNG)
+(Current WIP, does not include my custom RTL due to troubleshooting)
 The top level design features wiring for the HDMI input and output port. Both of these are actually running DVI protocol and not HDMI. This is due to limitations of available IP for the PYNQ board and my time and development limitations. 
 
+It is configured to accept 720p @60Hz. Any higher pushes the limits of what the board is capable. 
+
 The DVI2RGB module handles the DDC output to the HDMI input data. This tells the source device what the setup is capable/configured to run.
-The HPD (hot plug density) is also handled here. It is an on or off voltage to signal to the source device that a sink is present and allows the source to look DDC data to configure it's output.
+The HPD (hot plug density) is also handled here. It is an on or off voltage to signal to the source device that a sink is present and allows the source to look DDC data to configure it's output. It is set to high constantly for ease.
 
 A clock wizard provides the necassry clocking.
 
-All blocks shown beside the AXIS Edge Detection are IP of Digilent and Xilinx!
+AXI interconnects are used for PS to PL blocks.
+VDMA is used for writing into the DDR because entire frames will be written in. But a standard DMA is used to read out the pixels due to needing custom pointer movement.
 
 ### DMA - Direct Memory Access
 Initially, as stated above, the plan was to use only store a few rows of pixels instead of an entire frame. That was changed mainly for scalability and future growth. Instead of redoing multiple tracks of FIFO's, line buffers and kernelizers, the design would have a whole image to work on. 
@@ -64,18 +69,19 @@ However, a standard DMA block reads from the DDR. This is due to the need for ce
 (reference Sim files and AXI VIP here too)
 
 ### Crawl
-Implement a simple design that buffers video data into a higher clock domain and then back out
+Implement a simple design that buffers video data into a higher clock domain memory and then back out.
 
 ### Walk
+Add effects to the buffered video data like saturation via external input of say a button press.
 
 ### Run
 
 ## Getting Started
 Needed: 
-   A ZYNQ-7000 board with at least two interfaces for video input and output. 
+   A ZYNQ-7000 board with at least two interfaces for video input and output. I found that using HDMI cables for both DOES       NOT WORK. I am guessing this is because the sink assumes since it is coming in the HDMI port, that is should be HDMI. I    found using a HDMI to DVI/VGA converter in the cable fixes it.
    Two cables for video data. 
    A power cable for the board. 
-   And finally, an ethernet cable (note: this is used to generate the system clock on the Programmable Logic).
+   DDR either on the PS or PL side capable of storing a few frames of data at resolution. I am access it through the PS.
 
 ### Setup
 
@@ -84,17 +90,13 @@ Needed:
 
 ## References
 Implementation of the algorithm:
-
 https://en.wikipedia.org/wiki/Sobel_operator
-
 https://homepages.inf.ed.ac.uk/rbf/HIPR2/sobel.htm
 
 The following are designs used in the development of my own. 
-
 https://github.com/JeffreySamuel/canny_edge_detection_in_FPGA/blob/main/README.md
-
 https://github.com/tharunchitipolu/sobel-edge-detector
-
+https://github.com/AngeloJacobo/FPGA_RealTime_and_Static_Sobel_Edge_Detection/blob/main/src1/top_module.v
 DMA: https://logictronix.com/wp-content/uploads/2022/03/ZedBoard-Video-Frame-Buffer-Read_Write-Reference-Design-LRFD030.pdf
 
 ## Authors
