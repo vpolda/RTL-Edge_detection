@@ -29,6 +29,11 @@ HPD tied to something instead of constant
 This folder contains all source files and the project file.
 Including constraints, test benches, and imported designs.
 
+### Vitis
+Contains the Vitis project which consists of a Platform and Application component.
+Platform is based on the PL XSA file running baremetal.
+The Application DDR_video_buffer includes the main file for writing and reading video frames into the DDR through a circular buffer.
+
 ### Docs
 [DECAPED] Contains LibreOffice documents pertaining to the design. Includes a Hardware Description Document detailing the design. And  block diagram presentation file for block diagram generation. 
 
