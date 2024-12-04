@@ -19,6 +19,7 @@ Button to toggle effect?
 ### Internal Requirements
 (Mainly for my own sanity and memory)
 Syncs with output Video Timing Controller
+Can handle different video resolutions (even rebuild if needed, this drives kernelizer to be parameterizable)
 
 ### Cool addons
 Chain multiple effects together (Think this can be done with an AXI FIFO to avoid overwhelming the DMA controller)
@@ -51,10 +52,16 @@ It is configured to accept 720p @60Hz. Any higher pushes the limits of what the 
 The DVI2RGB module handles the DDC output to the HDMI input data. This tells the source device what the setup is capable/configured to run.
 The HPD (hot plug density) is also handled here. It is an on or off voltage to signal to the source device that a sink is present and allows the source to look DDC data to configure it's output. It is set to high constantly for ease.
 
-A clock wizard provides the necassry clocking.
+A clock wizard provides the necessary clocking.
 
 AXI interconnects are used for PS to PL blocks.
 VDMA is used for writing into the DDR because entire frames will be written in. But a standard DMA is used to read out the pixels due to needing custom pointer movement.
+
+### AXIS Edge Detection
+This module handles the sobel edge detection algorithm. 
+It tells the PS how it wants it's pixel data through registers accessible via AXI-lite interface.
+
+It uses a matrix of rounded values to take advantage of bit shifting instead of multiplication operators. 
 
 ### DMA - Direct Memory Access
 Initially, as stated above, the plan was to use only store a few rows of pixels instead of an entire frame. That was changed mainly for scalability and future growth. Instead of redoing multiple tracks of FIFO's, line buffers and kernelizers, the design would have a whole image to work on. 
