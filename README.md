@@ -105,6 +105,9 @@ Implementation of the algorithm:
 https://en.wikipedia.org/wiki/Sobel_operator
 https://homepages.inf.ed.ac.uk/rbf/HIPR2/sobel.htm
 
+Convolver
+https://thedatabus.in/convolver
+
 The following are designs used in the development of my own. 
 https://github.com/JeffreySamuel/canny_edge_detection_in_FPGA/blob/main/README.md
 https://github.com/tharunchitipolu/sobel-edge-detector
