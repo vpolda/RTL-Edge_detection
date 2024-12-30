@@ -69,7 +69,8 @@ Initially, as stated above, the plan was to use only store a few rows of pixels 
 This opened me to the world of DMA. Sadly the PYNQ-Z2 board has no PL to DDR controller wiring, so I had to instantiate the PS for passing along memory mapped data into the external 512 MB DDR.
 
 The design features VDMA (video DMA) IP block for writing in the DDR.
-However, a standard DMA block reads from the DDR. This is due to the need for certain pixels in the frame to be read out, instead of the entire frame. 
+~~However, a standard DMA block reads from the DDR. This is due to the need for certain pixels in the frame to be read out, instead of the entire frame.~~
+It was import for me to take the time to fully understand what is happening from the VDMA to the PS to the DDR. I found this confusing, but the VDMA handles actually all the writing and reading once it has been configured by software. Software on the PS is only there to configure, initialize and monitor. It can do post processing.
 
 ### Timing and latency
 
@@ -82,6 +83,9 @@ However, a standard DMA block reads from the DDR. This is due to the need for ce
 
 ### Crawl
 Implement a simple design that buffers video data into a higher clock domain memory and then back out.
+
+First step was to implement the hardware and software to stores frames into the DDR. DONE
+Next was to read into DDR 
 
 ### Walk
 Add effects to the buffered video data like saturation via external input of say a button press.
