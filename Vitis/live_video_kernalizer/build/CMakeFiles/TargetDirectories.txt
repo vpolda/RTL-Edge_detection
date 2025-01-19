@@ -1,0 +1,3 @@
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/live_video_kernalizer/build/CMakeFiles/live_video_kernalizer.elf.dir
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/live_video_kernalizer/build/CMakeFiles/edit_cache.dir
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/live_video_kernalizer/build/CMakeFiles/rebuild_cache.dir

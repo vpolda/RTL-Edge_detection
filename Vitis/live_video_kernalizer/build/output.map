@@ -1,0 +1,1793 @@
+Archive member included to satisfy reference by file (symbol)
+
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+                              CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj (xil_printf)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+                              CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj (Xil_ExceptionInit)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(asm_vectors.S.obj)
+                              (_vector_table)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(asm_vectors.S.obj) (_boot)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj) (_start)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(asm_vectors.S.obj) (FIQInterrupt)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(translation_table.S.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj) (MMUTable)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(cpu_init.S.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj) (__cpu_init)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+                              CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj (XAxiVdma_CfgInitialize)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj) (XAxiVdma_ChannelInit)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+                              CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj (XAxiVdma_IntrEnable)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+                              CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj (XAxiVdma_LookupConfig)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+                              CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj (XScuGic_LookupConfig)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+                              CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj (XScuGic_InterruptHandler)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+                              CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj (XScuGic_Connect)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj) (outbyte)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj) (XAxiVdma_ConfigTable)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj) (XScuGic_ConfigTable)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj) (__aeabi_uidivmod)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_divsi3.o)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj) (__aeabi_idivmod)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_dvmd_tls.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-ctype_.o)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj) (_ctype_)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj) (exit)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fini.o)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj) (__libc_fini_array)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o) (_global_impure_ptr)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-init.o)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj) (__libc_init_array)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memset.o)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj) (memset)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-printf.o)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj) (printf)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-puts.o)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj) (puts)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strlen.o)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj) (strlen)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-printf.o) (_vfprintf_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wsetup.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o) (__swsetup_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-__call_atexit.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o) (__call_exitprocs)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-dtoa.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o) (_dtoa_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fflush.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o) (_fflush_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-findfp.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-puts.o) (__sinit)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-freer.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o) (_free_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fvwrite.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-puts.o) (__sfvwrite_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fwalk.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-findfp.o) (_fwalk)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-localeconv.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o) (_localeconv_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-locale.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-localeconv.o) (__global_locale)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-makebuf.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wsetup.o) (__smakebuf_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mallocr.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o) (_malloc_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mbtowc_r.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-locale.o) (__ascii_mbtowc)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memchr.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o) (memchr)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcpy.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-dtoa.o) (memcpy)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memmove.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fvwrite.o) (memmove)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mlock.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-freer.o) (__malloc_lock)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mprec.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-dtoa.o) (_Balloc)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-reallocr.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fvwrite.o) (_realloc_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-sbrkr.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-freer.o) (_sbrk_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-s_frexp.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o) (frexp)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-stdio.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-findfp.o) (__sread)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strcmp.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-locale.o) (strcmp)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strncpy.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o) (strncpy)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfiprintf.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o) (__sprint_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wctomb_r.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-locale.o) (__ascii_wctomb)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-writer.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-stdio.o) (_write_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-assert.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-dtoa.o) (__assert_func)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-callocr.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mprec.o) (_calloc_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-closer.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-stdio.o) (_close_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-errno.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-callocr.o) (__errno)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fclose.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-findfp.o) (_fclose_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fiprintf.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-assert.o) (fiprintf)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fputwc.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfiprintf.o) (_fputwc_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fstatr.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-makebuf.o) (_fstat_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-isattyr.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-makebuf.o) (_isatty_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-lseekr.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-stdio.o) (_lseek_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-readr.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-stdio.o) (_read_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-reent.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-sbrkr.o) (errno)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wbuf.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fputwc.o) (__swbuf_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wcrtomb.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fputwc.o) (_wcrtomb_r)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-abort.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-assert.o) (abort)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signal.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-abort.o) (raise)
+C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signalr.o)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signal.o) (_kill_r)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj) (Xil_Assert)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj) (XGetCoreId)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-readr.o) (_read)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-isattyr.o) (_isatty)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-sbrkr.o) (_sbrk)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o) (_exit)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-closer.o) (_close)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-writer.o) (_write)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signalr.o) (_getpid)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fstatr.o) (_fstat)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signalr.o) (_kill)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+                              C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-lseekr.o) (_lseek)
+C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+                              C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj) (Xil_SpinLock)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .group         0x0000000000000000        0xc CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000      0xaae CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000      0x7f8 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000       0x22 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000       0x8e CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000       0x51 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000      0x103 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000       0x6a CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000      0x1df CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000      0x189 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000       0x2e CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000      0x5a7 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000       0x28 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000000000       0x51 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ps7_ddr_0        0x0000000000100000 0x000000001ff00000
+ps7_ram_0        0x0000000000000000 0x0000000000030000
+ps7_ram_1        0x00000000ffff0000 0x000000000000fe00
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+LOAD C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+LOAD CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+LOAD CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+                0x0000000000002000                _STACK_SIZE = DEFINED (_STACK_SIZE)?_STACK_SIZE:0x2000
+                0x0000000000002000                _HEAP_SIZE = DEFINED (_HEAP_SIZE)?_HEAP_SIZE:0x2000
+                0x0000000000000400                _ABORT_STACK_SIZE = DEFINED (_ABORT_STACK_SIZE)?_ABORT_STACK_SIZE:0x400
+                0x0000000000000800                _SUPERVISOR_STACK_SIZE = DEFINED (_SUPERVISOR_STACK_SIZE)?_SUPERVISOR_STACK_SIZE:0x800
+                0x0000000000000400                _IRQ_STACK_SIZE = DEFINED (_IRQ_STACK_SIZE)?_IRQ_STACK_SIZE:0x400
+                0x0000000000000400                _FIQ_STACK_SIZE = DEFINED (_FIQ_STACK_SIZE)?_FIQ_STACK_SIZE:0x400
+                0x0000000000000400                _UNDEF_STACK_SIZE = DEFINED (_UNDEF_STACK_SIZE)?_UNDEF_STACK_SIZE:0x400
+
+.text           0x0000000000100000     0xc49c
+ *(.vectors)
+ .vectors       0x0000000000100000       0xcc C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(asm_vectors.S.obj)
+                0x0000000000100000                _vector_table
+ *(.boot)
+ .boot          0x00000000001000cc      0x38c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+                0x00000000001000cc                _prestart
+                0x00000000001000cc                _boot
+ *(.text)
+ .text          0x0000000000100458        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+ .text          0x0000000000100458       0xa8 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .text          0x0000000000100500      0xd68 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+                0x0000000000100500                main
+                0x00000000001008c0                run_triple_frame_buffer
+ .text          0x0000000000101268       0x74 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+                0x0000000000101268                enable_caches
+                0x0000000000101280                disable_caches
+                0x0000000000101298                init_uart
+                0x00000000001012b0                init_platform
+                0x00000000001012c8                cleanup_platform
+ .text          0x00000000001012dc      0x71c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+                0x0000000000101484                xil_vprintf
+                0x00000000001019cc                xil_printf
+ .text          0x00000000001019f8      0x36c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+                0x0000000000101d04                Xil_ExceptionInit
+                0x0000000000101d08                Xil_ExceptionRegisterHandler
+                0x0000000000101d20                Xil_GetExceptionRegisterHandler
+                0x0000000000101d40                Xil_ExceptionRemoveHandler
+ .text          0x0000000000101d64        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(asm_vectors.S.obj)
+ .text          0x0000000000101d64        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+ .text          0x0000000000101d64       0x74 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+                0x0000000000101d78                _start
+ .text          0x0000000000101dd8       0x78 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+                0x0000000000101dd8                FIQInterrupt
+                0x0000000000101dec                IRQInterrupt
+                0x0000000000101e00                UndefinedException
+                0x0000000000101e14                SWInterrupt
+                0x0000000000101e28                DataAbortInterrupt
+                0x0000000000101e3c                PrefetchAbortInterrupt
+ .text          0x0000000000101e50        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(translation_table.S.obj)
+ .text          0x0000000000101e50       0x3c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(cpu_init.S.obj)
+                0x0000000000101e50                __cpu_init
+ .text          0x0000000000101e8c      0xea4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+                0x0000000000101e8c                XAxiVdma_GetChannel
+                0x0000000000101ec4                XAxiVdma_CfgInitialize
+                0x0000000000102260                XAxiVdma_Reset
+                0x0000000000102294                XAxiVdma_ResetNotDone
+                0x00000000001022c8                XAxiVdma_IsBusy
+                0x0000000000102310                XAxiVdma_CurrFrameStore
+                0x0000000000102338                XAxiVdma_GetVersion
+                0x0000000000102344                XAxiVdma_GetStatus
+                0x000000000010238c                XAxiVdma_SetLineBufThreshold
+                0x0000000000102460                XAxiVdma_FsyncSrcSelect
+                0x0000000000102514                XAxiVdma_GenLockSourceSelect
+                0x0000000000102624                XAxiVdma_StartParking
+                0x00000000001026d8                XAxiVdma_StopParking
+                0x000000000010270c                XAxiVdma_StartFrmCntEnable
+                0x0000000000102750                XAxiVdma_SetBdAddrs
+                0x00000000001027c8                XAxiVdma_StartWriteFrame
+                0x00000000001027e4                XAxiVdma_StartReadFrame
+                0x0000000000102800                XAxiVdma_DmaConfig
+                0x000000000010284c                XAxiVdma_DmaSetBufferAddr
+                0x00000000001028a0                XAxiVdma_DmaStart
+                0x00000000001028e8                XAxiVdma_DmaStop
+                0x000000000010291c                XAxiVdma_DmaRegisterDump
+                0x0000000000102950                XAxiVdma_SetFrameCounter
+                0x0000000000102a84                XAxiVdma_GetFrameCounter
+                0x0000000000102b98                XAxiVdma_SetFrmStore
+                0x0000000000102c40                XAxiVdma_GetFrmStore
+                0x0000000000102c94                XAxiVdma_GetDmaChannelErrors
+                0x0000000000102cdc                XAxiVdma_ClearDmaChannelErrors
+ .text          0x0000000000102d30      0xcb0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+                0x0000000000102d30                XAxiVdma_ChannelInit
+                0x0000000000102db0                XAxiVdma_ChannelResetNotDone
+                0x0000000000102dc0                XAxiVdma_ChannelReset
+                0x0000000000102dd0                XAxiVdma_ChannelIsRunning
+                0x0000000000102dec                XAxiVdma_ChannelIsBusy
+                0x0000000000102e0c                XAxiVdma_ChannelErrors
+                0x0000000000102e1c                XAxiVdma_ClearChannelErrors
+                0x0000000000102e30                XAxiVdma_ChannelGetStatus
+                0x0000000000102e3c                XAxiVdma_ChannelStartParking
+                0x0000000000102e80                XAxiVdma_ChannelStopParking
+                0x0000000000102e94                XAxiVdma_ChannelStartFrmCntEnable
+                0x0000000000102ea8                XAxiVdma_ChannelSetBdAddrs
+                0x0000000000102f74                XAxiVdma_ChannelConfig
+                0x0000000000103424                XAxiVdma_ChannelSetBufferAddr
+                0x0000000000103590                XAxiVdma_ChannelStart
+                0x000000000010368c                XAxiVdma_ChannelStartTransfer
+                0x0000000000103784                XAxiVdma_ChannelStop
+                0x00000000001037ac                XAxiVdma_ChannelRegisterDump
+                0x0000000000103818                XAxiVdma_ChannelSetFrmCnt
+                0x00000000001038b4                XAxiVdma_ChannelGetFrmCnt
+                0x0000000000103940                XAxiVdma_ChannelEnableIntr
+                0x000000000010396c                XAxiVdma_ChannelDisableIntr
+                0x00000000001039a0                XAxiVdma_ChannelGetPendingIntr
+                0x00000000001039b0                XAxiVdma_ChannelIntrClear
+                0x00000000001039d0                XAxiVdma_ChannelGetEnabledIntr
+ .text          0x00000000001039e0      0x2f0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+                0x00000000001039e0                XAxiVdma_IntrEnable
+                0x0000000000103a08                XAxiVdma_IntrDisable
+                0x0000000000103a30                XAxiVdma_IntrGetPending
+                0x0000000000103a74                XAxiVdma_IntrClear
+                0x0000000000103a9c                XAxiVdma_MaskS2MMErrIntr
+                0x0000000000103aec                XAxiVdma_ReadIntrHandler
+                0x0000000000103b8c                XAxiVdma_WriteIntrHandler
+                0x0000000000103c24                XAxiVdma_SetCallBack
+ .text          0x0000000000103cd0       0x64 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+                0x0000000000103cd0                XAxiVdma_LookupConfig
+ .text          0x0000000000103d34       0x64 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+                0x0000000000103d34                XScuGic_LookupConfig
+ .text          0x0000000000103d98       0x78 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+                0x0000000000103d98                XScuGic_InterruptHandler
+ .text          0x0000000000103e10      0xcf4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+                0x0000000000103e60                XScuGic_Connect
+                0x0000000000103f34                XScuGic_Disconnect
+                0x0000000000104030                XScuGic_SoftwareIntr
+                0x000000000010414c                XScuGic_SetPriorityTriggerType
+                0x00000000001042b4                XScuGic_GetPriorityTriggerType
+                0x00000000001043e0                XScuGic_InterruptMaptoCpu
+                0x000000000010448c                XScuGic_Enable
+                0x0000000000104584                XScuGic_InterruptUnmapFromCpu
+                0x000000000010462c                XScuGic_Disable
+                0x0000000000104724                XScuGic_UnmapAllInterruptsFromCpu
+                0x00000000001047c4                XScuGic_Stop
+                0x00000000001048c0                XScuGic_CfgInitialize
+                0x0000000000104a88                XScuGic_SetCpuID
+                0x0000000000104ad8                XScuGic_GetCpuID
+                0x0000000000104ae8                XScuGic_IsInitialized
+ .text          0x0000000000104b04       0xb8 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+                0x0000000000104b04                XUartPs_SendByte
+                0x0000000000104b1c                XUartPs_RecvByte
+                0x0000000000104b38                XUartPs_ResetHw
+                0x0000000000104b88                outbyte
+                0x0000000000104ba0                inbyte
+ .text          0x0000000000104bbc        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+ .text          0x0000000000104bbc        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+ *fill*         0x0000000000104bbc        0x4 
+ .text          0x0000000000104bc0      0x278 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o)
+                0x0000000000104bc0                __aeabi_uidiv
+                0x0000000000104bc0                __udivsi3
+                0x0000000000104e1c                __aeabi_uidivmod
+ .text          0x0000000000104e38      0x2b0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_divsi3.o)
+                0x0000000000104e38                __divsi3
+                0x0000000000104e38                __aeabi_idiv
+                0x00000000001050cc                __aeabi_idivmod
+ .text          0x00000000001050e8        0x4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_dvmd_tls.o)
+                0x00000000001050e8                __aeabi_idiv0
+                0x00000000001050e8                __aeabi_ldiv0
+ .text          0x00000000001050ec        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-ctype_.o)
+ .text          0x00000000001050ec       0x20 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o)
+                0x00000000001050ec                exit
+ .text          0x000000000010510c       0x2c C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fini.o)
+                0x000000000010510c                __libc_fini_array
+ .text          0x0000000000105138        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+ .text          0x0000000000105138       0x58 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-init.o)
+                0x0000000000105138                __libc_init_array
+ .text          0x0000000000105190       0xa8 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memset.o)
+                0x0000000000105190                memset
+ .text          0x0000000000105238       0x48 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-printf.o)
+                0x0000000000105238                _printf_r
+                0x0000000000105258                printf
+ .text          0x0000000000105280       0x78 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-puts.o)
+                0x0000000000105280                _puts_r
+                0x00000000001052e8                puts
+ *fill*         0x00000000001052f8        0x8 
+ .text          0x0000000000105300       0xdc C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strlen.o)
+                0x0000000000105300                strlen
+ *fill*         0x00000000001053dc        0x4 
+ .text          0x00000000001053e0     0x19d4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o)
+                0x00000000001053e0                _vfprintf_r
+                0x0000000000106d28                vfprintf
+ .text          0x0000000000106db4       0xc4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wsetup.o)
+                0x0000000000106db4                __swsetup_r
+ .text          0x0000000000106e78       0xa4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-__call_atexit.o)
+                0x0000000000106e78                __call_exitprocs
+ *fill*         0x0000000000106f1c        0x4 
+ .text          0x0000000000106f20      0xe04 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-dtoa.o)
+                0x0000000000107058                _dtoa_r
+ .text          0x0000000000107d24      0x1bc C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fflush.o)
+                0x0000000000107d24                __sflush_r
+                0x0000000000107e60                _fflush_r
+                0x0000000000107e8c                fflush
+ .text          0x0000000000107ee0      0x224 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-findfp.o)
+                0x0000000000107ee4                _cleanup_r
+                0x0000000000107fd0                __sfmoreglue
+                0x0000000000108000                __sfp
+                0x00000000001080a4                _cleanup
+                0x00000000001080bc                __sinit
+                0x00000000001080c4                __sfp_lock_acquire
+                0x00000000001080c8                __sfp_lock_release
+                0x00000000001080cc                __sinit_lock_acquire
+                0x00000000001080d0                __sinit_lock_release
+                0x00000000001080d4                __fp_lock_all
+                0x00000000001080ec                __fp_unlock_all
+ .text          0x0000000000108104      0x2ac C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-freer.o)
+                0x0000000000108104                _malloc_trim_r
+                0x00000000001081ac                _free_r
+ .text          0x00000000001083b0      0x30c C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fvwrite.o)
+                0x00000000001083b0                __sfvwrite_r
+ .text          0x00000000001086bc       0x80 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fwalk.o)
+                0x00000000001086bc                _fwalk
+                0x00000000001086f8                _fwalk_reent
+ .text          0x000000000010873c       0x14 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-localeconv.o)
+                0x000000000010873c                __localeconv_l
+                0x0000000000108740                _localeconv_r
+                0x0000000000108748                localeconv
+ .text          0x0000000000108750       0xb8 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-locale.o)
+                0x0000000000108750                _setlocale_r
+                0x00000000001087a4                __locale_mb_cur_max
+                0x00000000001087b4                setlocale
+ .text          0x0000000000108808      0x144 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-makebuf.o)
+                0x0000000000108808                __smakebuf_r
+                0x00000000001088f0                __swhatbuf_r
+ .text          0x000000000010894c      0x584 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mallocr.o)
+                0x000000000010894c                _malloc_r
+ .text          0x0000000000108ed0       0x3c C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mbtowc_r.o)
+                0x0000000000108ed0                _mbtowc_r
+                0x0000000000108ee8                __ascii_mbtowc
+ *fill*         0x0000000000108f0c        0x4 
+ .text          0x0000000000108f10       0xa0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memchr.o)
+                0x0000000000108f10                memchr
+ *fill*         0x0000000000108fb0       0x10 
+ .text          0x0000000000108fc0      0x5e0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcpy.o)
+                0x0000000000108fc0                memcpy
+ .text          0x00000000001095a0       0xfc C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memmove.o)
+                0x00000000001095a0                memmove
+ .text          0x000000000010969c        0x8 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mlock.o)
+                0x000000000010969c                __malloc_lock
+                0x00000000001096a0                __malloc_unlock
+ .text          0x00000000001096a4      0xaa4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mprec.o)
+                0x00000000001096a4                _Balloc
+                0x00000000001096f0                _Bfree
+                0x0000000000109704                __multadd
+                0x00000000001097ac                __s2b
+                0x0000000000109864                __hi0bits
+                0x00000000001098ac                __lo0bits
+                0x0000000000109904                __i2b
+                0x0000000000109964                __multiply
+                0x0000000000109ad8                __pow5mult
+                0x0000000000109b94                __lshift
+                0x0000000000109c80                __mcmp
+                0x0000000000109cc0                __mdiff
+                0x0000000000109e3c                __ulp
+                0x0000000000109ea0                __b2d
+                0x0000000000109f64                __d2b
+                0x000000000010a024                __ratio
+                0x000000000010a084                _mprec_log10
+                0x000000000010a0ac                __copybits
+                0x000000000010a108                __any_on
+ .text          0x000000000010a148      0x37c C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-reallocr.o)
+                0x000000000010a148                _realloc_r
+ .text          0x000000000010a4c4       0x28 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-sbrkr.o)
+                0x000000000010a4c4                _sbrk_r
+ *fill*         0x000000000010a4ec        0x4 
+ .text          0x000000000010a4f0       0x78 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-s_frexp.o)
+                0x000000000010a4f0                frexp
+ .text          0x000000000010a568       0x94 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-stdio.o)
+                0x000000000010a568                __sread
+                0x000000000010a58c                __seofread
+                0x000000000010a590                __swrite
+                0x000000000010a5d0                __sseek
+                0x000000000010a5f4                __sclose
+ *fill*         0x000000000010a5fc        0x4 
+ .text          0x000000000010a600      0x2dc C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strcmp.o)
+                0x000000000010a608                strcmp
+ .text          0x000000000010a8dc       0x74 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strncpy.o)
+                0x000000000010a8dc                strncpy
+ .text          0x000000000010a950      0xe74 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfiprintf.o)
+                0x000000000010a9c8                __sprint_r
+                0x000000000010a9e0                _vfiprintf_r
+                0x000000000010b738                vfiprintf
+ .text          0x000000000010b7c4       0x34 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wctomb_r.o)
+                0x000000000010b7c4                _wctomb_r
+                0x000000000010b7dc                __ascii_wctomb
+ .text          0x000000000010b7f8       0x30 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-writer.o)
+                0x000000000010b7f8                _write_r
+ .text          0x000000000010b828       0x50 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-assert.o)
+                0x000000000010b828                __assert_func
+                0x000000000010b86c                __assert
+ .text          0x000000000010b878       0x7c C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-callocr.o)
+                0x000000000010b878                _calloc_r
+ .text          0x000000000010b8f4       0x28 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-closer.o)
+                0x000000000010b8f4                _close_r
+ .text          0x000000000010b91c        0xc C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-errno.o)
+                0x000000000010b91c                __errno
+ .text          0x000000000010b928       0x98 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fclose.o)
+                0x000000000010b928                _fclose_r
+                0x000000000010b9b0                fclose
+ .text          0x000000000010b9c0       0x48 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fiprintf.o)
+                0x000000000010b9c0                _fiprintf_r
+                0x000000000010b9dc                fiprintf
+ .text          0x000000000010ba08       0xe4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fputwc.o)
+                0x000000000010ba08                __fputwc
+                0x000000000010ba8c                _fputwc_r
+                0x000000000010baa8                fputwc
+ .text          0x000000000010baec       0x2c C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fstatr.o)
+                0x000000000010baec                _fstat_r
+ .text          0x000000000010bb18       0x28 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-isattyr.o)
+                0x000000000010bb18                _isatty_r
+ .text          0x000000000010bb40       0x30 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-lseekr.o)
+                0x000000000010bb40                _lseek_r
+ .text          0x000000000010bb70       0x30 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-readr.o)
+                0x000000000010bb70                _read_r
+ .text          0x000000000010bba0       0xdc C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-reent.o)
+                0x000000000010bba0                cleanup_glue
+                0x000000000010bbe8                _reclaim_reent
+ .text          0x000000000010bc7c       0xc0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wbuf.o)
+                0x000000000010bc7c                __swbuf_r
+                0x000000000010bd28                __swbuf
+ .text          0x000000000010bd3c       0x78 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wcrtomb.o)
+                0x000000000010bd3c                _wcrtomb_r
+                0x000000000010bd6c                wcrtomb
+ .text          0x000000000010bdb4       0x10 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-abort.o)
+                0x000000000010bdb4                abort
+ .text          0x000000000010bdc4      0x288 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signal.o)
+                0x000000000010bdc4                _init_signal_r
+                0x000000000010bdf4                _signal_r
+                0x000000000010be44                _raise_r
+                0x000000000010be98                __sigtramp_r
+                0x000000000010befc                raise
+                0x000000000010bf58                signal
+                0x000000000010bfa8                _init_signal
+                0x000000000010bfe4                __sigtramp
+ .text          0x000000000010c04c       0x30 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signalr.o)
+                0x000000000010c04c                _kill_r
+                0x000000000010c078                _getpid_r
+ .text          0x000000000010c07c       0x70 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+                0x000000000010c07c                Xil_Assert
+                0x000000000010c0d8                Xil_AssertSetCallback
+                0x000000000010c0e8                XNullHandler
+ .text          0x000000000010c0ec       0x14 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+                0x000000000010c0ec                XGetPlatform_Info
+                0x000000000010c0f4                XGetCoreId
+ .text          0x000000000010c100       0x88 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+                0x000000000010c100                read
+                0x000000000010c144                _read
+ .text          0x000000000010c188       0x10 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+                0x000000000010c188                isatty
+                0x000000000010c190                _isatty
+ .text          0x000000000010c198       0x40 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+                0x000000000010c198                _sbrk
+ .text          0x000000000010c1d8        0x4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+                0x000000000010c1d8                _exit
+ .text          0x000000000010c1dc        0x8 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+                0x000000000010c1dc                _close
+ .text          0x000000000010c1e4       0xb8 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+                0x000000000010c1e4                write
+                0x000000000010c240                _write
+ .text          0x000000000010c29c       0x10 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+                0x000000000010c29c                getpid
+                0x000000000010c2a4                _getpid
+ .text          0x000000000010c2ac       0x10 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+                0x000000000010c2ac                _fstat
+ .text          0x000000000010c2bc       0x38 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+                0x000000000010c2bc                kill
+                0x000000000010c2d8                _kill
+ .text          0x000000000010c2f4       0x38 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+                0x000000000010c2f4                lseek
+                0x000000000010c310                _lseek
+ .text          0x000000000010c32c      0x134 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+                0x000000000010c32c                Xil_SpinLock
+                0x000000000010c378                Xil_SpinUnlock
+                0x000000000010c3ac                Xil_InitializeSpinLock
+                0x000000000010c418                Xil_ReleaseSpinLock
+                0x000000000010c430                Xil_IsSpinLockEnabled
+ .text          0x000000000010c460        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+ .text          0x000000000010c460        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+ .text.__stub   0x000000000010c460       0x18 linker stubs
+ *(.text.*)
+ *(.gnu.linkonce.t.*)
+ *(.plt)
+ *(.gnu_warning)
+ *(.gcc_execpt_table)
+ *(.glue_7)
+ .glue_7        0x000000000010c478        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x000000000010c478        0x0 linker stubs
+ *(.vfp11_veneer)
+ .vfp11_veneer  0x000000000010c478        0x0 linker stubs
+ *(.ARM.extab)
+ *(.gnu.linkonce.armextab.*)
+ *(.note.gnu.build-id)
+ .note.gnu.build-id
+                0x000000000010c478       0x24 linker stubs
+
+.v4_bx          0x000000000010c49c        0x0
+ .v4_bx         0x000000000010c49c        0x0 linker stubs
+
+.iplt           0x000000000010c49c        0x0
+ .iplt          0x000000000010c49c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+
+.init           0x000000000010c49c        0xc
+ *(.init)
+ .init          0x000000000010c49c        0x4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+                0x000000000010c49c                _init
+ .init          0x000000000010c4a0        0x8 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+
+.fini           0x000000000010c4a8        0xc
+ *(.fini)
+ .fini          0x000000000010c4a8        0x4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+                0x000000000010c4a8                _fini
+ .fini          0x000000000010c4ac        0x8 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+
+.rodata         0x000000000010c4b8     0x1433
+                0x000000000010c4b8                __rodata_start = .
+ *(.rodata)
+ .rodata        0x000000000010c4b8       0x24 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .rodata        0x000000000010c4dc      0x3d0 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .rodata        0x000000000010c8ac      0x101 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-ctype_.o)
+                0x000000000010c8ac                _ctype_
+ *fill*         0x000000000010c9ad        0x3 
+ .rodata        0x000000000010c9b0        0x4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+                0x000000000010c9b0                _global_impure_ptr
+ .rodata        0x000000000010c9b4       0x20 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o)
+ *fill*         0x000000000010c9d4        0x4 
+ .rodata        0x000000000010c9d8      0x128 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mprec.o)
+                0x000000000010c9e8                __mprec_tens
+                0x000000000010cab0                __mprec_tinytens
+                0x000000000010cad8                __mprec_bigtens
+ .rodata        0x000000000010cb00       0x20 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfiprintf.o)
+ .rodata        0x000000000010cb20       0x24 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+ *(.rodata.*)
+ .rodata.str1.4
+                0x000000000010cb44       0x11 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ *fill*         0x000000000010cb55        0x3 
+ .rodata.str1.4
+                0x000000000010cb58      0x338 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+ .rodata.str1.4
+                0x000000000010ce90      0x2fb C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ *fill*         0x000000000010d18b        0x1 
+ .rodata.str1.4
+                0x000000000010d18c      0x3e6 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+                                        0x426 (size before relaxing)
+ *fill*         0x000000000010d572        0x2 
+ .rodata.str1.4
+                0x000000000010d574      0x10d C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ *fill*         0x000000000010d681        0x3 
+ .rodata.str1.4
+                0x000000000010d684       0x87 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+ *fill*         0x000000000010d70b        0x1 
+ .rodata.str1.4
+                0x000000000010d70c       0x82 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ *fill*         0x000000000010d78e        0x2 
+ .rodata.str1.4
+                0x000000000010d790       0x12 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+ *fill*         0x000000000010d7a2        0x2 
+ .rodata.str1.4
+                0x000000000010d7a4       0x12 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+ .rodata.str1.4
+                0x000000000010d7b6       0x12 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-puts.o)
+                                          0x2 (size before relaxing)
+ *fill*         0x000000000010d7b6        0x2 
+ .rodata.str1.4
+                0x000000000010d7b8       0x2e C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o)
+                                         0x42 (size before relaxing)
+ *fill*         0x000000000010d7e6        0x2 
+ .rodata.str1.4
+                0x000000000010d7e8       0x69 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-dtoa.o)
+                                         0x6d (size before relaxing)
+ *fill*         0x000000000010d851        0x3 
+ .rodata.str1.4
+                0x000000000010d854        0xe C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-locale.o)
+                                         0x12 (size before relaxing)
+ *fill*         0x000000000010d862        0x2 
+ .rodata.str1.4
+                0x000000000010d864       0x46 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mprec.o)
+                                         0x5a (size before relaxing)
+ .rodata.str1.4
+                0x000000000010d8aa       0x2f C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfiprintf.o)
+ *fill*         0x000000000010d8aa        0x2 
+ .rodata.str1.4
+                0x000000000010d8ac       0x3f C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-assert.o)
+                                         0x43 (size before relaxing)
+ *(.gnu.linkonce.r.*)
+                0x000000000010d8eb                __rodata_end = .
+
+.rodata1        0x000000000010d8eb        0x0
+                0x000000000010d8eb                __rodata1_start = .
+ *(.rodata1)
+ *(.rodata1.*)
+                0x000000000010d8eb                __rodata1_end = .
+
+.sdata2         0x000000000010d8eb        0x0
+                0x000000000010d8eb                __sdata2_start = .
+ *(.sdata2)
+ *(.sdata2.*)
+ *(.gnu.linkonce.s2.*)
+                0x000000000010d8eb                __sdata2_end = .
+
+.sbss2          0x000000000010d8eb        0x0
+                0x000000000010d8eb                __sbss2_start = .
+ *(.sbss2)
+ *(.sbss2.*)
+ *(.gnu.linkonce.sb2.*)
+                0x000000000010d8eb                __sbss2_end = .
+
+.data           0x000000000010d8f0      0x9f4
+                0x000000000010d8f0                __data_start = .
+ *(.data)
+ .data          0x000000000010d8f0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+ .data          0x000000000010d8f0        0x4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+                0x000000000010d8f0                __dso_handle
+ .data          0x000000000010d8f4        0x4 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+                0x000000000010d8f4                srcBuffer
+ .data          0x000000000010d8f8        0x0 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .data          0x000000000010d8f8        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ .data          0x000000000010d8f8       0x38 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+                0x000000000010d8f8                XExc_VectorTable
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(asm_vectors.S.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(translation_table.S.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(cpu_init.S.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+ .data          0x000000000010d930        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+ .data          0x000000000010d930        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o)
+ .data          0x000000000010d930        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_divsi3.o)
+ .data          0x000000000010d930        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_dvmd_tls.o)
+ .data          0x000000000010d930        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-ctype_.o)
+ .data          0x000000000010d930        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o)
+ .data          0x000000000010d930        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fini.o)
+ .data          0x000000000010d930      0x430 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+                0x000000000010d930                _impure_ptr
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-init.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memset.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-printf.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-puts.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strlen.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wsetup.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-dtoa.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fflush.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-findfp.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-freer.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fvwrite.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fwalk.o)
+ .data          0x000000000010dd60        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-localeconv.o)
+ .data          0x000000000010dd60      0x16c C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-locale.o)
+                0x000000000010dd60                __global_locale
+ .data          0x000000000010decc        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-makebuf.o)
+ *fill*         0x000000000010decc        0x4 
+ .data          0x000000000010ded0      0x410 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mallocr.o)
+                0x000000000010ded0                __malloc_av_
+                0x000000000010e2d8                __malloc_sbrk_base
+                0x000000000010e2dc                __malloc_trim_threshold
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mbtowc_r.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memchr.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcpy.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memmove.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mlock.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mprec.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-reallocr.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-sbrkr.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-s_frexp.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-stdio.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strcmp.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strncpy.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfiprintf.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wctomb_r.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-writer.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-assert.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-callocr.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-closer.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-errno.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fclose.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fiprintf.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fputwc.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fstatr.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-isattyr.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-lseekr.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-readr.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-reent.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wbuf.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wcrtomb.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-abort.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signal.o)
+ .data          0x000000000010e2e0        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signalr.o)
+ .data          0x000000000010e2e0        0x4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+                0x000000000010e2e0                Xil_AssertWait
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+ .data          0x000000000010e2e4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+ .data          0x000000000010e2e4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+ *(.data.*)
+ *(.gnu.linkonce.d.*)
+ *(.jcr)
+ *(.got)
+ *(.got.plt)
+                0x000000000010e2e4                __data_end = .
+
+.tm_clone_table
+                0x000000000010e2e4        0x0
+ .tm_clone_table
+                0x000000000010e2e4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .tm_clone_table
+                0x000000000010e2e4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+
+.igot.plt       0x000000000010e2e4        0x0
+ .igot.plt      0x000000000010e2e4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+
+.got2           0x000000000010e2e4        0x0
+ .got2          0x000000000010e2e4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+
+.data1          0x000000000010e2e4        0x0
+                0x000000000010e2e4                __data1_start = .
+ *(.data1)
+ *(.data1.*)
+                0x000000000010e2e4                __data1_end = .
+
+.got
+ *(.got)
+
+.ctors          0x000000000010e2e4        0x0
+                0x000000000010e2e4                __CTOR_LIST__ = .
+                0x000000000010e2e4                ___CTORS_LIST___ = .
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT_BY_NAME(.ctors.*))
+ *(.ctors)
+                0x000000000010e2e4                __CTOR_END__ = .
+                0x000000000010e2e4                ___CTORS_END___ = .
+
+.dtors          0x000000000010e2e4        0x0
+                0x000000000010e2e4                __DTOR_LIST__ = .
+                0x000000000010e2e4                ___DTORS_LIST___ = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT_BY_NAME(.dtors.*))
+ *(.dtors)
+                0x000000000010e2e4                __DTOR_END__ = .
+                0x000000000010e2e4                ___DTORS_END___ = .
+
+.fixup          0x000000000010e2e4        0x0
+                0x000000000010e2e4                __fixup_start = .
+ *(.fixup)
+                0x000000000010e2e4                __fixup_end = .
+
+.eh_frame       0x000000000010e2e4        0x4
+ *(.eh_frame)
+ .eh_frame      0x000000000010e2e4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .eh_frame      0x000000000010e2e4        0x4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+
+.eh_framehdr    0x000000000010e2e8        0x0
+                0x000000000010e2e8                __eh_framehdr_start = .
+ *(.eh_framehdr)
+                0x000000000010e2e8                __eh_framehdr_end = .
+
+.gcc_except_table
+ *(.gcc_except_table)
+
+.mmu_tbl        0x0000000000110000     0x4000
+                0x0000000000110000                __mmu_tbl_start = .
+ *(.mmu_tbl)
+ .mmu_tbl       0x0000000000110000     0x4000 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(translation_table.S.obj)
+                0x0000000000110000                MMUTable
+                0x0000000000114000                __mmu_tbl_end = .
+
+.rel.dyn        0x0000000000114000        0x0
+ .rel.iplt      0x0000000000114000        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+
+.ARM.exidx      0x0000000000114000        0x0
+                0x0000000000114000                __exidx_start = .
+ *(.ARM.exidx*)
+ *(.gnu.linkonce.armexidix.*.*)
+                0x0000000000114000                __exidx_end = .
+
+.preinit_array  0x0000000000114000        0x0
+                0x0000000000114000                __preinit_array_start = .
+ *(SORT_BY_NAME(.preinit_array.*))
+ *(.preinit_array)
+                0x0000000000114000                __preinit_array_end = .
+
+.init_array     0x0000000000114000        0x4
+                0x0000000000114000                __init_array_start = .
+ *(SORT_BY_NAME(.init_array.*))
+ *(.init_array)
+ .init_array    0x0000000000114000        0x4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+                0x0000000000114004                __init_array_end = .
+
+.fini_array     0x0000000000114004        0x4
+                0x0000000000114004                __fini_array_start = .
+ *(SORT_BY_NAME(.fini_array.*))
+ *(.fini_array)
+ .fini_array    0x0000000000114004        0x4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+                0x0000000000114008                __fini_array_end = .
+
+.drvcfg_sec     0x0000000000114008      0x718
+                0x0000000000114008                . = ALIGN (0x8)
+                0x0000000000114008                __drvcfgsecdata_start = .
+ *(.drvcfg_sec)
+ .drvcfg_sec    0x0000000000114008      0x110 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+                0x0000000000114008                XAxiVdma_ConfigTable
+ .drvcfg_sec    0x0000000000114118      0x608 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+                0x0000000000114118                XScuGic_ConfigTable
+                0x0000000000114720                __drvcfgsecdata_end = .
+                0x0000000000114720                __drvcfgsecdata_size = (__drvcfgsecdata_end - __drvcfgsecdata_start)
+
+.ARM.attributes
+                0x0000000000114720       0x33
+                0x0000000000114720                __ARM.attributes_start = .
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x0000000000114720       0x21 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+ .ARM.attributes
+                0x0000000000114741       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .ARM.attributes
+                0x0000000000114774       0x37 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .ARM.attributes
+                0x00000000001147ab       0x37 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .ARM.attributes
+                0x00000000001147e2       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ .ARM.attributes
+                0x0000000000114819       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+ .ARM.attributes
+                0x0000000000114850       0x23 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(asm_vectors.S.obj)
+ .ARM.attributes
+                0x0000000000114873       0x23 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+ .ARM.attributes
+                0x0000000000114896       0x23 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+ .ARM.attributes
+                0x00000000001148b9       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+ .ARM.attributes
+                0x00000000001148f0       0x23 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(translation_table.S.obj)
+ .ARM.attributes
+                0x0000000000114913       0x23 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(cpu_init.S.obj)
+ .ARM.attributes
+                0x0000000000114936       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ .ARM.attributes
+                0x000000000011496d       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+ .ARM.attributes
+                0x00000000001149a4       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ .ARM.attributes
+                0x00000000001149db       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+ .ARM.attributes
+                0x0000000000114a12       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+ .ARM.attributes
+                0x0000000000114a49       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+ .ARM.attributes
+                0x0000000000114a80       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ .ARM.attributes
+                0x0000000000114ab7       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+ .ARM.attributes
+                0x0000000000114aee       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+ .ARM.attributes
+                0x0000000000114b25       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+ .ARM.attributes
+                0x0000000000114b5c       0x21 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000114b7d       0x21 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x0000000000114b9e       0x21 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x0000000000114bbf       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-ctype_.o)
+ .ARM.attributes
+                0x0000000000114bf2       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000114c25       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000114c58       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000114c8b       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000114cbe       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000000000114cf1       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-printf.o)
+ .ARM.attributes
+                0x0000000000114d24       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-puts.o)
+ .ARM.attributes
+                0x0000000000114d57       0x19 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strlen.o)
+ .ARM.attributes
+                0x0000000000114d70       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o)
+ .ARM.attributes
+                0x0000000000114da3       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wsetup.o)
+ .ARM.attributes
+                0x0000000000114dd6       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000114e09       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-dtoa.o)
+ .ARM.attributes
+                0x0000000000114e3c       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fflush.o)
+ .ARM.attributes
+                0x0000000000114e6f       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-findfp.o)
+ .ARM.attributes
+                0x0000000000114ea2       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-freer.o)
+ .ARM.attributes
+                0x0000000000114ed5       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fvwrite.o)
+ .ARM.attributes
+                0x0000000000114f08       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fwalk.o)
+ .ARM.attributes
+                0x0000000000114f3b       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-localeconv.o)
+ .ARM.attributes
+                0x0000000000114f6e       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-locale.o)
+ .ARM.attributes
+                0x0000000000114fa1       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-makebuf.o)
+ .ARM.attributes
+                0x0000000000114fd4       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mallocr.o)
+ .ARM.attributes
+                0x0000000000115007       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mbtowc_r.o)
+ .ARM.attributes
+                0x000000000011503a       0x1b C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memchr.o)
+ .ARM.attributes
+                0x0000000000115055       0x1b C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcpy.o)
+ .ARM.attributes
+                0x0000000000115070       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memmove.o)
+ .ARM.attributes
+                0x00000000001150a3       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x00000000001150d6       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mprec.o)
+ .ARM.attributes
+                0x0000000000115109       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-reallocr.o)
+ .ARM.attributes
+                0x000000000011513c       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x000000000011516f       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-s_frexp.o)
+ .ARM.attributes
+                0x00000000001151a2       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-stdio.o)
+ .ARM.attributes
+                0x00000000001151d5       0x1f C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strcmp.o)
+ .ARM.attributes
+                0x00000000001151f4       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strncpy.o)
+ .ARM.attributes
+                0x0000000000115227       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfiprintf.o)
+ .ARM.attributes
+                0x000000000011525a       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wctomb_r.o)
+ .ARM.attributes
+                0x000000000011528d       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-writer.o)
+ .ARM.attributes
+                0x00000000001152c0       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-assert.o)
+ .ARM.attributes
+                0x00000000001152f3       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-callocr.o)
+ .ARM.attributes
+                0x0000000000115326       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-closer.o)
+ .ARM.attributes
+                0x0000000000115359       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-errno.o)
+ .ARM.attributes
+                0x000000000011538c       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fclose.o)
+ .ARM.attributes
+                0x00000000001153bf       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fiprintf.o)
+ .ARM.attributes
+                0x00000000001153f2       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fputwc.o)
+ .ARM.attributes
+                0x0000000000115425       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fstatr.o)
+ .ARM.attributes
+                0x0000000000115458       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-isattyr.o)
+ .ARM.attributes
+                0x000000000011548b       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-lseekr.o)
+ .ARM.attributes
+                0x00000000001154be       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-readr.o)
+ .ARM.attributes
+                0x00000000001154f1       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000115524       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wbuf.o)
+ .ARM.attributes
+                0x0000000000115557       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wcrtomb.o)
+ .ARM.attributes
+                0x000000000011558a       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-abort.o)
+ .ARM.attributes
+                0x00000000001155bd       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signal.o)
+ .ARM.attributes
+                0x00000000001155f0       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signalr.o)
+ .ARM.attributes
+                0x0000000000115623       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+ .ARM.attributes
+                0x000000000011565a       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+ .ARM.attributes
+                0x0000000000115691       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+ .ARM.attributes
+                0x00000000001156c8       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+ .ARM.attributes
+                0x00000000001156ff       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+ .ARM.attributes
+                0x0000000000115736       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+ .ARM.attributes
+                0x000000000011576d       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+ .ARM.attributes
+                0x00000000001157a4       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+ .ARM.attributes
+                0x00000000001157db       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+ .ARM.attributes
+                0x0000000000115812       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+ .ARM.attributes
+                0x0000000000115849       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+ .ARM.attributes
+                0x0000000000115880       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+ .ARM.attributes
+                0x00000000001158b7       0x37 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+ .ARM.attributes
+                0x00000000001158ee       0x33 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+ .ARM.attributes
+                0x0000000000115921       0x21 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+                0x0000000000115942                __ARM.attributes_end = .
+
+.sdata          0x0000000000114720        0x0
+                0x0000000000114720                __sdata_start = .
+ *(.sdata)
+ *(.sdata.*)
+ *(.gnu.linkonce.s.*)
+                0x0000000000114720                __sdata_end = .
+
+.sbss           0x0000000000114720        0x0
+                0x0000000000114720                __sbss_start = .
+ *(.sbss)
+ *(.sbss.*)
+ *(.gnu.linkonce.sb.*)
+                0x0000000000114720                __sbss_end = .
+
+.tdata          0x0000000000114720        0x0
+                0x0000000000114720                __tdata_start = .
+ *(.tdata)
+ *(.tdata.*)
+ *(.gnu.linkonce.td.*)
+                0x0000000000114720                __tdata_end = .
+
+.tbss           0x0000000000114720        0x0
+                0x0000000000114720                __tbss_start = .
+ *(.tbss)
+ *(.tbss.*)
+ *(.gnu.linkonce.tb.*)
+                0x0000000000114720                __tbss_end = .
+
+.bss            0x0000000000114720      0x204
+                0x0000000000114720                __bss_start = .
+ *(.bss)
+ .bss           0x0000000000114720        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crti.o
+ .bss           0x0000000000114720       0x1c C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+ .bss           0x000000000011473c      0x188 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+                0x0000000000114748                vdma_context
+ .bss           0x00000000001148c4        0x0 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .bss           0x00000000001148c4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ .bss           0x00000000001148c4        0xc C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+                0x00000000001148c4                DataAbortAddr
+                0x00000000001148c8                PrefetchAbortAddr
+                0x00000000001148cc                UndefinedExceptionAddr
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(asm_vectors.S.obj)
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(translation_table.S.obj)
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(cpu_init.S.obj)
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+ .bss           0x00000000001148d0        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+ .bss           0x00000000001148d0        0x4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ .bss           0x00000000001148d4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+ .bss           0x00000000001148d4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+ .bss           0x00000000001148d4        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_udivsi3.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_divsi3.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a(_dvmd_tls.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-ctype_.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-exit.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fini.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-impure.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-init.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memset.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-printf.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-puts.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strlen.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfprintf.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wsetup.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-dtoa.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fflush.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-findfp.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-freer.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fvwrite.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fwalk.o)
+ .bss           0x00000000001148d4        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-localeconv.o)
+ .bss           0x00000000001148d4        0x4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-locale.o)
+                0x00000000001148d4                _PathLocale
+ .bss           0x00000000001148d8        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-makebuf.o)
+ .bss           0x00000000001148d8       0x34 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mallocr.o)
+                0x00000000001148d8                __malloc_top_pad
+                0x00000000001148dc                __malloc_current_mallinfo
+                0x0000000000114904                __malloc_max_sbrked_mem
+                0x0000000000114908                __malloc_max_total_mem
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mbtowc_r.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memchr.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memcpy.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-memmove.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mlock.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-mprec.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-reallocr.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-sbrkr.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-s_frexp.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-stdio.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strcmp.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-strncpy.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-vfiprintf.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wctomb_r.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-writer.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-assert.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-callocr.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-closer.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-errno.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fclose.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fiprintf.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fputwc.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-fstatr.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-isattyr.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-lseekr.o)
+ .bss           0x000000000011490c        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-readr.o)
+ .bss           0x000000000011490c        0x4 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-reent.o)
+                0x000000000011490c                errno
+ .bss           0x0000000000114910        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wbuf.o)
+ .bss           0x0000000000114910        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-wcrtomb.o)
+ .bss           0x0000000000114910        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-abort.o)
+ .bss           0x0000000000114910        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signal.o)
+ .bss           0x0000000000114910        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a(lib_a-signalr.o)
+ .bss           0x0000000000114910        0x8 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+                0x0000000000114914                Xil_AssertStatus
+ .bss           0x0000000000114918        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+ .bss           0x0000000000114918        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+ .bss           0x0000000000114918        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+ .bss           0x0000000000114918        0x4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+ .bss           0x000000000011491c        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+ .bss           0x000000000011491c        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+ .bss           0x000000000011491c        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+ .bss           0x000000000011491c        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+ .bss           0x000000000011491c        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+ .bss           0x000000000011491c        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+ .bss           0x000000000011491c        0x0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+ .bss           0x000000000011491c        0x8 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+ .bss           0x0000000000114924        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+ .bss           0x0000000000114924        0x0 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+ *(.bss.*)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+                0x0000000000114924                __bss_end = .
+                0x0000000000114720                _SDA_BASE_ = (__sdata_start + ((__sbss_end - __sdata_start) / 0x2))
+                0x000000000010d8eb                _SDA2_BASE_ = (__sdata2_start + ((__sbss2_end - __sdata2_start) / 0x2))
+
+.heap           0x0000000000114924     0x200c
+                0x0000000000114930                . = ALIGN (0x10)
+ *fill*         0x0000000000114924        0xc 
+                0x0000000000114930                _heap = .
+                0x0000000000114930                HeapBase = .
+                0x0000000000114930                _heap_start = .
+                0x0000000000116930                . = (. + _HEAP_SIZE)
+ *fill*         0x0000000000114930     0x2000 
+                0x0000000000116930                _heap_end = .
+                0x0000000000116930                HeapLimit = .
+
+.stack          0x0000000000116930     0x3800
+                0x0000000000116930                . = ALIGN (0x10)
+                0x0000000000116930                _stack_end = .
+                0x0000000000118930                . = (. + _STACK_SIZE)
+ *fill*         0x0000000000116930     0x2000 
+                0x0000000000118930                . = ALIGN (0x10)
+                0x0000000000118930                _stack = .
+                0x0000000000118930                __stack = _stack
+                0x0000000000118930                . = ALIGN (0x10)
+                0x0000000000118930                _irq_stack_end = .
+                0x0000000000118d30                . = (. + _IRQ_STACK_SIZE)
+ *fill*         0x0000000000118930      0x400 
+                0x0000000000118d30                . = ALIGN (0x10)
+                0x0000000000118d30                __irq_stack = .
+                0x0000000000118d30                _supervisor_stack_end = .
+                0x0000000000119530                . = (. + _SUPERVISOR_STACK_SIZE)
+ *fill*         0x0000000000118d30      0x800 
+                0x0000000000119530                . = ALIGN (0x10)
+                0x0000000000119530                __supervisor_stack = .
+                0x0000000000119530                _abort_stack_end = .
+                0x0000000000119930                . = (. + _ABORT_STACK_SIZE)
+ *fill*         0x0000000000119530      0x400 
+                0x0000000000119930                . = ALIGN (0x10)
+                0x0000000000119930                __abort_stack = .
+                0x0000000000119930                _fiq_stack_end = .
+                0x0000000000119d30                . = (. + _FIQ_STACK_SIZE)
+ *fill*         0x0000000000119930      0x400 
+                0x0000000000119d30                . = ALIGN (0x10)
+                0x0000000000119d30                __fiq_stack = .
+                0x0000000000119d30                _undef_stack_end = .
+                0x000000000011a130                . = (. + _UNDEF_STACK_SIZE)
+ *fill*         0x0000000000119d30      0x400 
+                0x000000000011a130                . = ALIGN (0x10)
+                0x000000000011a130                __undef_stack = .
+                0x000000000011a130                end = .
+START GROUP
+LOAD C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a
+LOAD C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a
+LOAD C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxiltimer.a
+LOAD C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a
+LOAD C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a
+END GROUP
+START GROUP
+LOAD C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libgcc.a
+LOAD C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libg.a
+LOAD C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard\libc.a
+END GROUP
+LOAD C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+LOAD C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtn.o
+OUTPUT(live_video_kernalizer.elf elf32-littlearm)
+LOAD linker stubs
+
+.comment        0x0000000000000000       0x12
+ .comment       0x0000000000000000       0x12 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtbegin.o
+                                         0x13 (size before relaxing)
+ .comment       0x0000000000000012       0x13 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .comment       0x0000000000000012       0x13 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+ .comment       0x0000000000000012       0x13 C:/Xilinx/Vitis/2023.2/gnu/aarch32/nt/gcc-arm-none-eabi/bin//../aarch32-xilinx-eabi/usr/lib/thumb/v7-a+fp/hard/crtend.o
+
+.debug_info     0x0000000000000000     0xb1af
+ .debug_info    0x0000000000000000      0xed6 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_info    0x0000000000000ed6       0xcf CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_info    0x0000000000000fa5      0x870 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ .debug_info    0x0000000000001815      0x6c1 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+ .debug_info    0x0000000000001ed6       0x25 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+ .debug_info    0x0000000000001efb       0x24 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+ .debug_info    0x0000000000001f1f      0x13d C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+ .debug_info    0x000000000000205c       0x24 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(cpu_init.S.obj)
+ .debug_info    0x0000000000002080     0x2449 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ .debug_info    0x00000000000044c9     0x24a9 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+ .debug_info    0x0000000000006972      0xaa7 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ .debug_info    0x0000000000007419      0x35b C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+ .debug_info    0x0000000000007774      0x1df C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+ .debug_info    0x0000000000007953      0x356 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+ .debug_info    0x0000000000007ca9     0x17cf C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ .debug_info    0x0000000000009478      0x6a5 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+ .debug_info    0x0000000000009b1d      0x2e4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+ .debug_info    0x0000000000009e01      0x17f C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+ .debug_info    0x0000000000009f80      0x1c9 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+ .debug_info    0x000000000000a149      0x145 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+ .debug_info    0x000000000000a28e      0x19c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+ .debug_info    0x000000000000a42a       0xdb C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+ .debug_info    0x000000000000a505      0x161 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+ .debug_info    0x000000000000a666       0xae C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+ .debug_info    0x000000000000a714       0xc9 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+ .debug_info    0x000000000000a7dd      0x1a7 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+ .debug_info    0x000000000000a984       0xc1 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+ .debug_info    0x000000000000aa45      0x2e3 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+ .debug_info    0x000000000000ad28      0x153 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+ .debug_info    0x000000000000ae7b      0x15c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+ .debug_info    0x000000000000afd7      0x1d8 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+
+.debug_abbrev   0x0000000000000000     0x2bae
+ .debug_abbrev  0x0000000000000000      0x324 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_abbrev  0x0000000000000324       0x5e CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_abbrev  0x0000000000000382      0x38c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ .debug_abbrev  0x000000000000070e      0x266 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+ .debug_abbrev  0x0000000000000974       0x14 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+ .debug_abbrev  0x0000000000000988       0x14 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+ .debug_abbrev  0x000000000000099c       0xb5 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+ .debug_abbrev  0x0000000000000a51       0x14 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(cpu_init.S.obj)
+ .debug_abbrev  0x0000000000000a65      0x45c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ .debug_abbrev  0x0000000000000ec1      0x44c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+ .debug_abbrev  0x000000000000130d      0x365 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ .debug_abbrev  0x0000000000001672       0xfa C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+ .debug_abbrev  0x000000000000176c      0x118 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+ .debug_abbrev  0x0000000000001884      0x1d0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+ .debug_abbrev  0x0000000000001a54      0x358 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ .debug_abbrev  0x0000000000001dac      0x1d1 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+ .debug_abbrev  0x0000000000001f7d       0xa4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+ .debug_abbrev  0x0000000000002021       0xe1 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+ .debug_abbrev  0x0000000000002102      0x115 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+ .debug_abbrev  0x0000000000002217       0x9f C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+ .debug_abbrev  0x00000000000022b6      0x131 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+ .debug_abbrev  0x00000000000023e7       0x90 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+ .debug_abbrev  0x0000000000002477       0xed C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+ .debug_abbrev  0x0000000000002564       0x69 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+ .debug_abbrev  0x00000000000025cd       0x77 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+ .debug_abbrev  0x0000000000002644      0x149 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+ .debug_abbrev  0x000000000000278d       0x76 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+ .debug_abbrev  0x0000000000002803       0xc8 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+ .debug_abbrev  0x00000000000028cb       0xd0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+ .debug_abbrev  0x000000000000299b       0xe9 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+ .debug_abbrev  0x0000000000002a84      0x12a C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+
+.debug_aranges  0x0000000000000000      0x3d0
+ .debug_aranges
+                0x0000000000000000       0x20 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_aranges
+                0x0000000000000020       0x20 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_aranges
+                0x0000000000000040       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ .debug_aranges
+                0x0000000000000060       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+ .debug_aranges
+                0x0000000000000080       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+ .debug_aranges
+                0x00000000000000a0       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+ .debug_aranges
+                0x00000000000000c0       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+ .debug_aranges
+                0x00000000000000e0       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(cpu_init.S.obj)
+ .debug_aranges
+                0x0000000000000100       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ .debug_aranges
+                0x0000000000000120       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+ .debug_aranges
+                0x0000000000000140       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ .debug_aranges
+                0x0000000000000160       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+ .debug_aranges
+                0x0000000000000180       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+ .debug_aranges
+                0x00000000000001a0       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+ .debug_aranges
+                0x00000000000001c0       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ .debug_aranges
+                0x00000000000001e0       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+ .debug_aranges
+                0x0000000000000200       0x18 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+ .debug_aranges
+                0x0000000000000218       0x18 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+ .debug_aranges
+                0x0000000000000230       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+ .debug_aranges
+                0x0000000000000250       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+ .debug_aranges
+                0x0000000000000270       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+ .debug_aranges
+                0x0000000000000290       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+ .debug_aranges
+                0x00000000000002b0       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+ .debug_aranges
+                0x00000000000002d0       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+ .debug_aranges
+                0x00000000000002f0       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+ .debug_aranges
+                0x0000000000000310       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+ .debug_aranges
+                0x0000000000000330       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+ .debug_aranges
+                0x0000000000000350       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+ .debug_aranges
+                0x0000000000000370       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+ .debug_aranges
+                0x0000000000000390       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+ .debug_aranges
+                0x00000000000003b0       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+
+.debug_macro    0x0000000000000000     0x3d39
+ .debug_macro   0x0000000000000000      0x255 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000000255      0xaae CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000000d03      0x7f8 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x00000000000014fb       0x22 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x000000000000151d       0x8e CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x00000000000015ab       0x51 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x00000000000015fc      0x103 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x00000000000016ff       0x6a CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000001769      0x1df CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000001948      0x189 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000001ad1       0x2e CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000001aff      0x5a7 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x00000000000020a6       0x28 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x00000000000020ce       0x51 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x000000000000211f       0x36 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002155      0x414 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002569       0x64 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x00000000000025cd       0x1d CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x00000000000025ea       0x3c CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002626       0x34 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x000000000000265a      0x341 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x000000000000299b      0x119 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002ab4       0x16 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002aca       0x43 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002b0d       0x34 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002b41       0x10 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002b51       0x52 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002ba3      0x182 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002d25       0x10 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002d35       0x35 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002d6a       0x58 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000002dc2      0x69d CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x000000000000345f       0x9b CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x00000000000034fa       0x54 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x000000000000354e       0x83 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x00000000000035d1      0x2c6 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000003897       0x2e CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x00000000000038c5       0x43 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000003908      0x2b6 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000003bbe       0x16 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000003bd4       0x89 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_macro   0x0000000000003c5d       0xba CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_macro   0x0000000000003d17       0x22 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+
+.debug_line     0x0000000000000000     0x9adf
+ .debug_line    0x0000000000000000      0x7f1 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_line    0x00000000000007f1      0x382 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_line    0x0000000000000b73      0x8b8 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ .debug_line    0x000000000000142b      0x4b8 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+ .debug_line    0x00000000000018e3      0x146 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+ .debug_line    0x0000000000001a29       0x69 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+ .debug_line    0x0000000000001a92      0x100 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+ .debug_line    0x0000000000001b92       0x57 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(cpu_init.S.obj)
+ .debug_line    0x0000000000001be9     0x1703 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ .debug_line    0x00000000000032ec     0x18a3 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+ .debug_line    0x0000000000004b8f      0x5b2 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ .debug_line    0x0000000000005141      0x290 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+ .debug_line    0x00000000000053d1      0x2a2 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+ .debug_line    0x0000000000005673      0x33d C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+ .debug_line    0x00000000000059b0     0x1933 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ .debug_line    0x00000000000072e3      0x4cf C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+ .debug_line    0x00000000000077b2      0x22b C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+ .debug_line    0x00000000000079dd      0x23b C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+ .debug_line    0x0000000000007c18      0x214 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+ .debug_line    0x0000000000007e2c      0x1d7 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+ .debug_line    0x0000000000008003      0x290 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+ .debug_line    0x0000000000008293      0x1d4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+ .debug_line    0x0000000000008467      0x28b C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+ .debug_line    0x00000000000086f2      0x1e0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+ .debug_line    0x00000000000088d2      0x244 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+ .debug_line    0x0000000000008b16      0x2bf C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+ .debug_line    0x0000000000008dd5      0x246 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+ .debug_line    0x000000000000901b      0x28f C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+ .debug_line    0x00000000000092aa      0x289 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+ .debug_line    0x0000000000009533      0x280 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+ .debug_line    0x00000000000097b3      0x32c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+
+.debug_str      0x0000000000000000    0x14a6d
+ .debug_str     0x0000000000000000    0x12516 CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+                                      0x127e0 (size before relaxing)
+ .debug_str     0x0000000000012516      0x2eb CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+                                       0x89ef (size before relaxing)
+ .debug_str     0x0000000000012801      0x2c6 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+                                        0x3cd (size before relaxing)
+ .debug_str     0x0000000000012ac7      0x211 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+                                        0x449 (size before relaxing)
+ .debug_str     0x0000000000012cd8       0xa2 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+                                        0x13b (size before relaxing)
+ .debug_str     0x0000000000012d7a        0xb C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+                                         0xb2 (size before relaxing)
+ .debug_str     0x0000000000012d85       0xf4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+                                        0x2f3 (size before relaxing)
+ .debug_str     0x0000000000012e79       0x98 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(cpu_init.S.obj)
+                                        0x13f (size before relaxing)
+ .debug_str     0x0000000000012f11      0x657 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+                                        0xd40 (size before relaxing)
+ .debug_str     0x0000000000013568      0x271 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+                                        0x949 (size before relaxing)
+ .debug_str     0x00000000000137d9      0x102 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+                                        0x6fc (size before relaxing)
+ .debug_str     0x00000000000138db       0x9f C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+                                        0x48a (size before relaxing)
+ .debug_str     0x000000000001397a      0x131 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+                                        0x330 (size before relaxing)
+ .debug_str     0x0000000000013aab       0xaf C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+                                        0x3c1 (size before relaxing)
+ .debug_str     0x0000000000013b5a      0x283 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+                                        0x631 (size before relaxing)
+ .debug_str     0x0000000000013ddd      0x160 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+                                        0x302 (size before relaxing)
+ .debug_str     0x0000000000013f3d       0x86 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_g.c.obj)
+                                        0x44f (size before relaxing)
+ .debug_str     0x0000000000013fc3       0x84 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_g.c.obj)
+                                        0x2e0 (size before relaxing)
+ .debug_str     0x0000000000014047      0x107 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+                                        0x30d (size before relaxing)
+ .debug_str     0x000000000001414e       0xa6 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+                                        0x2b7 (size before relaxing)
+ .debug_str     0x00000000000141f4       0xb1 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+                                        0x28b (size before relaxing)
+ .debug_str     0x00000000000142a5       0xa3 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+                                        0x260 (size before relaxing)
+ .debug_str     0x0000000000014348       0xd1 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+                                        0x2b7 (size before relaxing)
+ .debug_str     0x0000000000014419       0x99 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+                                        0x25d (size before relaxing)
+ .debug_str     0x00000000000144b2       0x9a C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+                                        0x262 (size before relaxing)
+ .debug_str     0x000000000001454c       0x9a C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+                                        0x28d (size before relaxing)
+ .debug_str     0x00000000000145e6       0x9c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+                                        0x26b (size before relaxing)
+ .debug_str     0x0000000000014682      0x17f C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+                                        0x3ae (size before relaxing)
+ .debug_str     0x0000000000014801       0xa0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+                                        0x279 (size before relaxing)
+ .debug_str     0x00000000000148a1       0xb0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+                                        0x293 (size before relaxing)
+ .debug_str     0x0000000000014951      0x11c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+                                        0x336 (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x1000
+ .debug_frame   0x0000000000000000      0x17c CMakeFiles/live_video_kernalizer.elf.dir/main.c.obj
+ .debug_frame   0x000000000000017c       0xa8 CMakeFiles/live_video_kernalizer.elf.dir/platform.c.obj
+ .debug_frame   0x0000000000000224       0xb4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ .debug_frame   0x00000000000002d8       0xc0 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+ .debug_frame   0x0000000000000398       0x70 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(vectors.c.obj)
+ .debug_frame   0x0000000000000408      0x2a4 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ .debug_frame   0x00000000000006ac      0x264 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+ .debug_frame   0x0000000000000910      0x128 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ .debug_frame   0x0000000000000a38       0x2c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+ .debug_frame   0x0000000000000a64       0x2c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+ .debug_frame   0x0000000000000a90       0x2c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+ .debug_frame   0x0000000000000abc      0x210 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ .debug_frame   0x0000000000000ccc       0x60 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+ .debug_frame   0x0000000000000d2c       0x4c C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+ .debug_frame   0x0000000000000d78       0x30 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+ .debug_frame   0x0000000000000da8       0x48 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+ .debug_frame   0x0000000000000df0       0x30 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+ .debug_frame   0x0000000000000e20       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+ .debug_frame   0x0000000000000e40       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+ .debug_frame   0x0000000000000e60       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+ .debug_frame   0x0000000000000e80       0x48 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+ .debug_frame   0x0000000000000ec8       0x30 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(getpid.c.obj)
+ .debug_frame   0x0000000000000ef8       0x20 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+ .debug_frame   0x0000000000000f18       0x40 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+ .debug_frame   0x0000000000000f58       0x40 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+ .debug_frame   0x0000000000000f98       0x68 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+
+.debug_loclists
+                0x0000000000000000     0x554c
+ .debug_loclists
+                0x0000000000000000      0x5fb C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ .debug_loclists
+                0x00000000000005fb      0x23e C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_exception.c.obj)
+ .debug_loclists
+                0x0000000000000839     0x170f C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ .debug_loclists
+                0x0000000000001f48     0x1611 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+ .debug_loclists
+                0x0000000000003559      0x52d C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ .debug_loclists
+                0x0000000000003a86       0x3b C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_sinit.c.obj)
+ .debug_loclists
+                0x0000000000003ac1       0x3b C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_sinit.c.obj)
+ .debug_loclists
+                0x0000000000003afc       0xa1 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic_intr.c.obj)
+ .debug_loclists
+                0x0000000000003b9d     0x1452 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ .debug_loclists
+                0x0000000000004fef      0x213 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+ .debug_loclists
+                0x0000000000005202       0x3e C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_assert.c.obj)
+ .debug_loclists
+                0x0000000000005240       0x36 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xplatform_info.c.obj)
+ .debug_loclists
+                0x0000000000005276       0x92 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(read.c.obj)
+ .debug_loclists
+                0x0000000000005308       0x1e C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(isatty.c.obj)
+ .debug_loclists
+                0x0000000000005326       0x31 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_sbrk.c.obj)
+ .debug_loclists
+                0x0000000000005357       0x14 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(_exit.c.obj)
+ .debug_loclists
+                0x000000000000536b       0x1e C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(close.c.obj)
+ .debug_loclists
+                0x0000000000005389       0xaa C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(write.c.obj)
+ .debug_loclists
+                0x0000000000005433       0x1e C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(fstat.c.obj)
+ .debug_loclists
+                0x0000000000005451       0x41 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(kill.c.obj)
+ .debug_loclists
+                0x0000000000005492       0x42 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(lseek.c.obj)
+ .debug_loclists
+                0x00000000000054d4       0x78 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_spinlock.c.obj)
+
+.debug_rnglists
+                0x0000000000000000      0x705
+ .debug_rnglists
+                0x0000000000000000       0x86 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil_printf.c.obj)
+ .debug_rnglists
+                0x0000000000000086      0x1d2 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma.c.obj)
+ .debug_rnglists
+                0x0000000000000258      0x2ae C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_channel.c.obj)
+ .debug_rnglists
+                0x0000000000000506       0x17 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xaxivdma_intr.c.obj)
+ .debug_rnglists
+                0x000000000000051d      0x176 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xscugic.c.obj)
+ .debug_rnglists
+                0x0000000000000693       0x72 C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxil.a(xuartps_hw.c.obj)
+
+.debug_line_str
+                0x0000000000000000      0x143
+ .debug_line_str
+                0x0000000000000000      0x12d C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(boot.S.obj)
+ .debug_line_str
+                0x000000000000012d        0xb C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(xil-crt0.S.obj)
+                                        0x13c (size before relaxing)
+ .debug_line_str
+                0x0000000000000138        0xb C:/Projects/SoC_training/pz2_videoDisplay/Vitis/platform/export/platform/sw/standalone_ps7_cortexa9_0/lib/\libxilstandalone.a(cpu_init.S.obj)
+                                        0x131 (size before relaxing)
