@@ -1,4 +1,5 @@
 # RTL Edge Detection
+!!! NEED TO IMPLEMENT A CACHE!!!!!!!!!!!!!!!
 
 ## Description
 A design focused on live video editing with the implementation of the Sobel Edge detection algorithm. 
@@ -19,7 +20,7 @@ Button to toggle effect?
 ### Internal Requirements
 (Mainly for my own sanity and memory)
 Syncs with output Video Timing Controller
-Can handle different video resolutions (even rebuild if needed, this drives kernelizer to be parameterizable)
+Can handle multiple video effects
 
 ### Cool addons
 Chain multiple effects together (Think this can be done with an AXI FIFO to avoid overwhelming the DMA controller)
